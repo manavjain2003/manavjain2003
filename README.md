@@ -149,7 +149,8 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <div align="center">
 
 ## 🛠️ Technology Arsenal
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 ### **Frontend Development**
 
@@ -206,7 +207,8 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <div align="center">
 ## 💼 Professional Journey
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <details open>
 <summary><b>🏢 Full Stack Developer @ Inquisitor InfoSoft Private Limited</b> <i>(Oct 2025 - Present)</i></summary>
 <br/>
@@ -396,7 +398,7 @@ const education = {
 
 ## 🤝 Let's Build Something Amazing Together
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 ### 📫 Reach Out
 
