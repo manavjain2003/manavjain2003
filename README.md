@@ -240,11 +240,9 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </details>
 
----
 
-<!-- ===================================================================================== -->
 <!-- FEATURED PROJECTS SECTION - ENHANCED -->
-<!-- ===================================================================================== -->
+
 
 <div align="center">
 
