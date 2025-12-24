@@ -384,6 +384,7 @@ CI/CD pipelines & deployment automation
 💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
 </div>
 
+---
 
 <!-- ===================================================================================== -->
 <!-- GITHUB STATISTICS SECTION -->
