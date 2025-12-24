@@ -415,36 +415,91 @@ CI/CD pipelines & deployment automation
 
 </div>
 
-```javascript
-const education = {
-  current: {
-    degree: "Master of Computer Applications (MCA)",
-    institution: "Sikkim Manipal University",
-    duration: "2025 - 2027",
-    focus: "Advanced Software Development & System Architecture"
-  },
-  completed: [
-    {
-      program: "Diploma in MERN Full Stack",
-      institution: "DUCAT",
-      year: "2024 - 2025",
-      expertise: ["React.js", "Redux", "Node.js", "MongoDB", "Express.js"]
-    },
-    {
-      degree: "B.Com in Marketing & Finance",
-      institution: "IGNOU",
-      year: "2021 - 2024"
-    }
-  ],
-  currentFocus: [
-    "Advanced React.js patterns",
-    "Backend architecture & optimization",
-    "Scalable system design",
-    "Production-ready code practices"
-  ]
-}
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📚 Current Education
+
+<img src="https://img.shields.io/badge/MCA-Pursuing-00D9FF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="MCA"/>
+
+</div>
+
+<br>
+
+**Master of Computer Applications (MCA)**  
+🏛️ **Sikkim Manipal University**  
+📅 **2025 - 2027**
+
+<br>
+
+**🎯 Focus Area:**
+- Advanced Software Development & System Architecture
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏆 Completed Education
+
+<img src="https://img.shields.io/badge/MERN_Stack-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN"/>
+
+</div>
+
+<br>
+
+**Diploma in MERN Full Stack**  
+🏛️ **DUCAT**  
+📅 **2024 - 2025**
+
+**Tech Stack Expertise:**
+```
+React.js | Redux | Node.js | MongoDB | Express.js
 ```
 
+<br>
+
+**B.Com in Marketing & Finance**  
+🏛️ **IGNOU**  
+📅 **2021 - 2024**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🚀 Current Focus Areas
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/><br>
+<b>Advanced React.js patterns</b>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>
+<b>Backend architecture & optimization</b>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60"/><br>
+<b>Scalable system design</b>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ed-41a7-80e8-e48c85e8651f.png" width="60" height="60"/><br>
+<b>Production-ready code practices</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 <!-- ===================================================================================== -->
 <!-- CONTACT & COLLABORATION SECTION -->
@@ -456,17 +511,59 @@ const education = {
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
-### 💡 Open To
-```yaml
-Collaboration: Full-time opportunities, freelance projects, open-source contributions
-Interests: MERN stack development, system architecture, performance optimization
-Availability: Ready to discuss innovative ideas and impactful solutions
-```
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 💼 Collaboration
+
+<img src="https://img.shields.io/badge/Status-Open_For_Opportunities-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open"/>
+
+<br>
+
+✅ Full-time opportunities  
+✅ Freelance projects  
+✅ Open-source contributions
+
+</td>
+<td width="34%" align="center" valign="top">
+
+### 🎯 Interests
+
+<img src="https://img.shields.io/badge/Focus-MERN_Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN"/>
+
+<br>
+
+⚡ MERN stack development  
+🏗️ System architecture  
+🚀 Performance optimization
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 📬 Availability
+
+<img src="https://img.shields.io/badge/Status-Ready_To_Connect-00C7B7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ready"/>
+
+<br>
+
+💡 Ready to discuss  
+🎨 Innovative ideas  
+📈 Impactful solutions
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 <i>✨ Passionate about crafting elegant solutions to complex problems</i>
 
-</div>---
-
+</div>
 <!-- ===================================================================================== -->
 <!-- FOOTER WITH WAVE -->
 <!-- ===================================================================================== -->
