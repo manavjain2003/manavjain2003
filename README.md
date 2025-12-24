@@ -41,18 +41,22 @@
 <!-- PROFESSIONAL INTRODUCTION -->
 <!-- ===================================================================================== -->
 
+<div align="center">
+
 ## 💼 About Me
+
+</div>
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 **Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**.
 
 Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
 
 </td>
-<td width="40%">
+<td width="40%" valign="top">
 
 <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -60,16 +64,40 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
+<div align="center">
+
 ### 🎯 Professional Highlights
 
-| 📋 Category | 🔍 Details |
-|------------|-----------|
-| **Role** | Full Stack Developer (MERN Specialist) |
-| **Location** | New Delhi, India |
-| **Focus** | Scalable Web & Mobile Applications |
-| **Impact** | Measurable improvements across e-commerce, HRM & enterprise platforms |
+</div>
+
+<table>
+<tr>
+<th width="30%">📋 Category</th>
+<th width="70%">🔍 Details</th>
+</tr>
+<tr>
+<td><strong>Role</strong></td>
+<td>Full Stack Developer (MERN Specialist)</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>New Delhi, India</td>
+</tr>
+<tr>
+<td><strong>Focus</strong></td>
+<td>Scalable Web & Mobile Applications</td>
+</tr>
+<tr>
+<td><strong>Impact</strong></td>
+<td>Measurable improvements across e-commerce, HRM & enterprise platforms</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### ⚡ Key Achievements
+
+</div>
 
 - 🚀 **10% increase** in conversion tracking through comprehensive dashboard development
 - ⏱️ **30% reduction** in leave approval time via automated workflow systems
@@ -77,8 +105,11 @@ Currently advancing technical acumen through **Master of Computer Applications (
 - 🔐 Architected **role-based authentication systems** managing multiple user hierarchies
 - ⚙️ Optimized **application performance** through CDN integration and clean architecture
 
+<div align="center">
 
-### 🔥 **Core Competencies**
+### 🔥 Core Competencies
+
+</div>
 
 <table>
 <tr>
@@ -109,11 +140,12 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- ULTRA PRO SKILLS SECTION WITH CATEGORIES -->
 <!-- ===================================================================================== -->
 
-## 🛠️ **Technology Arsenal**
-
 <div align="center">
 
+## 🛠️ Technology Arsenal
+
 ### **Frontend Development**
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
@@ -124,6 +156,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </p>
 
 ### **Backend Development**
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -132,12 +165,14 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </p>
 
 ### **Mobile & Cross-Platform**
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 ### **Development Tools & Workflow**
+
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -146,6 +181,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </p>
 
 ### **Additional Technologies**
+
 <p>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
@@ -160,7 +196,11 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 <!-- ===================================================================================== -->
 
-## 💼 **Professional Journey**
+<div align="center">
+
+## 💼 Professional Journey
+
+</div>
 
 <details open>
 <summary><b>🏢 Full Stack Developer @ Inquisitor InfoSoft Private Limited</b> <i>(Oct 2025 - Present)</i></summary>
@@ -205,13 +245,13 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ===================================================================================== -->
 
-## 🚀 **Featured Projects**
-
 <div align="center">
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛍️ **E-Commerce Application**
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
@@ -228,7 +268,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 **Stack:** `React` `React Router` `Tailwind CSS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✈️ **Visa Consultancy Website**
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
@@ -247,7 +287,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌤️ **Weather Application**
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
@@ -264,7 +304,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 **Stack:** `HTML` `CSS` `JavaScript`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 **More Projects Coming Soon...**
 
@@ -288,9 +328,9 @@ Currently working on:
 <!-- GITHUB STATISTICS SECTION -->
 <!-- ===================================================================================== -->
 
-## 📊 **GitHub Analytics**
-
 <div align="center">
+
+## 📊 GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manavjain2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
@@ -306,8 +346,11 @@ Currently working on:
 <!-- EDUCATION & LEARNING SECTION -->
 <!-- ===================================================================================== -->
 
-## 🎓 **Education & Continuous Learning**
+<div align="center">
 
+## 🎓 Education & Continuous Learning
+
+</div>
 ```javascript
 const education = {
   current: {
@@ -344,13 +387,13 @@ const education = {
 <!-- CONTACT & COLLABORATION SECTION -->
 <!-- ===================================================================================== -->
 
-## 🤝 **Let's Build Something Amazing Together**
-
 <div align="center">
+
+## 🤝 Let's Build Something Amazing Together
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
-### 📫 **Reach Out**
+### 📫 Reach Out
 
 <p>
   <a href="https://linkedin.com/in/manav-jain-b950a9264">
@@ -364,8 +407,7 @@ const education = {
   </a>
 </p>
 
-### 💡 **Open To**
-
+### 💡 Open To
 ```yaml
 Collaboration: Full-time opportunities, freelance projects, open-source contributions
 Interests: MERN stack development, system architecture, performance optimization
