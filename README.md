@@ -243,85 +243,125 @@ Currently advancing technical acumen through **Master of Computer Applications (
 ---
 
 <!-- ===================================================================================== -->
-<!-- FEATURED PROJECTS SECTION -->
+<!-- FEATURED PROJECTS SECTION - ENHANCED -->
 <!-- ===================================================================================== -->
 
 <div align="center">
 
 ## 🚀 Featured Projects
 
-<table>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
+</div>
+
+<!-- Project Card 1 -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-### 🛍️ **E-Commerce Application**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="E-Commerce" width="150" height="150"/>
 
-**Full-featured responsive e-commerce platform**
+### 🛍️ E-Commerce Application
 
-✨ **Key Features:**
-- Global state management with Context API
-- Modular component architecture
-- Seamless cart operations
-- React Router navigation
-
-**Stack:** `React` `React Router` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ **Visa Consultancy Website**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
-
-**Professional consultancy platform**
-
-✨ **Key Features:**
-- Responsive Flexbox & Grid layouts
-- Dynamic data fetching
-- Reusable form components
-- Intuitive user experience
-
-**Stack:** `HTML` `CSS` `React.js`
+<p>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+</a>
+</p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🌤️ **Weather Application**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+**Full-featured responsive e-commerce platform with modern architecture**
 
-**Real-time weather tracking app**
+#### ✨ Key Highlights
 
-✨ **Key Features:**
-- OpenWeather API integration
-- Dynamic data rendering
-- Responsive design
-- Real-time updates
+- 🎯 **Context API** for efficient global state management
+- 🧩 **Modular architecture** with reusable components
+- 🛒 **Seamless cart operations** with real-time updates
+- 🧭 **React Router** for smooth SPA navigation
+- 📱 **Fully responsive** design for all devices
 
-**Stack:** `HTML` `CSS` `JavaScript`
+#### 🛠️ Tech Stack
+`React.js` • `React Router` • `Context API` • `Tailwind CSS`
 
-</td>
-<td width="50%" valign="top">
-
-### 📈 **More Projects Coming Soon...**
-
-Currently working on:
-- 🔄 Advanced React patterns implementation
-- 🏗️ Scalable system architecture
-- ⚡ Performance optimization techniques
-- 🚀 Production-ready solutions
-
-**Stay tuned for updates!**
+#### 💡 Learning Outcomes
+Advanced state management patterns, component composition, and modern React best practices
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
+
+<!-- Project Card 2 -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+**Professional visa consultancy platform with elegant design**
+
+#### ✨ Key Highlights
+
+- 🎨 **Responsive layouts** using Flexbox & Grid
+- 📡 **Dynamic data fetching** with optimized performance
+- 📝 **Reusable form components** for consistent UX
+- 🎯 **Intuitive navigation** and user flow
+- 💼 **Professional design** with modern aesthetics
+
+#### 🛠️ Tech Stack
+`HTML5` • `CSS3` • `React.js` • `Responsive Design`
+
+#### 💡 Learning Outcomes
+Advanced CSS techniques, form handling, and professional UI/UX design principles
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Visa Consultancy" width="150" height="150"/>
+
+### ✈️ Visa Consultancy Website
+
+<p>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Project Card 3 -->
+<table width="100%">
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Weather App" width="150" height="150"/>
+
+### 🌤️ Weather Application
+
+<p>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+</a>
+</p>
+
+</td>
+<td width="60%" valign="top">
+
+**Real-time weather tracking application with live API integration**
 
 ---
 
