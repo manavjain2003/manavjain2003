@@ -64,10 +64,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
+
+<!-- ===================================================================================== -->
 <!-- Professional Highlights Section -->
-
-<!-- Professional Highlights Section - Replace from line ~75 to ~100 -->
-
+<!-- ===================================================================================== -->
 <div align="center">
 
 ### 🎯 Professional Highlights
@@ -95,6 +95,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
+<!-- ===================================================================================== -->
+<!-- Achievements -->
+<!-- ===================================================================================== -->
+
 ### ⚡ Key Achievements
 
 <table width="100%">
@@ -110,6 +114,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 </table>
+
+<!-- ===================================================================================== -->
+<!--  Skills -->
+<!-- ===================================================================================== -->
 
 ### 🔥 Core Competencies
 
@@ -141,7 +149,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 ---
 
 <!-- ===================================================================================== -->
-<!-- ULTRA PRO SKILLS SECTION WITH CATEGORIES -->
+<!--  SKILLS SECTION WITH CATEGORIES -->
 <!-- ===================================================================================== -->
 
 <div align="center">
