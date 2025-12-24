@@ -45,51 +45,23 @@
 
 ## 💼 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-</div>
-
 **Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**. Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
 
-### 🎯 **Professional Highlights**
-
-```yaml
-Role: Full Stack Developer (MERN Specialist)
-Location: New Delhi, India
-Focus: Scalable Web & Mobile Applications
-Impact: Delivered measurable improvements across e-commerce, HRM, and enterprise platforms
-```
+### 🎯 Professional Highlights
 
 - ⚡ **10% increase** in conversion tracking through comprehensive dashboard development
-- ⚡ **30% reduction** in leave approval time via automated workflow systems
+- ⚡ **30% reduction** in leave approval time via automated workflow systems  
 - ⚡ **50% faster** onboarding processes through streamlined administrative controls
 - ⚡ Architected **role-based authentication systems** managing multiple user hierarchies
 - ⚡ Optimized **application performance** through CDN integration and clean architecture
 
-### 🔥 **Core Competencies**
+### 🔥 Core Competencies
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Frontend Excellence:** Responsive UI/UX with React.js & Tailwind CSS • State management using Redux & Context API • Cross-platform development with React Native • Performance optimization & code splitting
 
-**Frontend Excellence**
-- 🎨 Responsive UI/UX with React.js & Tailwind CSS
-- 🔄 State management using Redux & Context API
-- 📱 Cross-platform development with React Native
-- ⚡ Performance optimization & code splitting
+**Backend Mastery:** RESTful API design & implementation • Authentication & RBAC systems • Database architecture (MongoDB, MySQL) • Node.js & Express.js server development
 
-</td>
-<td width="50%" valign="top">
-
-**Backend Mastery**
-- 🛠️ RESTful API design & implementation
-- 🔐 Authentication & RBAC systems
-- 🗄️ Database architecture (MongoDB, MySQL)
-- 🚀 Node.js & Express.js server development
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -193,82 +165,38 @@ Impact: Delivered measurable improvements across e-commerce, HRM, and enterprise
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ===================================================================================== -->
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-<div align="center">
+### 🛍️ E-Commerce Application
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003) [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
 
-<table>
-<tr>
-<td width="50%">
+Full-featured responsive e-commerce platform with seamless user experience
 
-### 🛍️ **E-Commerce Application**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+**✨ Key Features:** Global state management with Context API • Modular component architecture • Seamless cart operations • React Router navigation
 
-**Full-featured responsive e-commerce platform**
+**Tech Stack:** `React` `React Router` `Tailwind CSS`
 
-✨ **Key Features:**
-- Global state management with Context API
-- Modular component architecture
-- Seamless cart operations
-- React Router navigation
+---
 
-**Stack:** `React` `React Router` `Tailwind CSS`
+### ✈️ Visa Consultancy Website
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003) [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
 
-</td>
-<td width="50%">
+Professional consultancy platform simplifying visa application process
 
-### ✈️ **Visa Consultancy Website**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+**✨ Key Features:** Responsive Flexbox & Grid layouts • Dynamic data fetching • Reusable form components • Intuitive user experience
 
-**Professional consultancy platform**
+**Tech Stack:** `HTML` `CSS` `React.js`
 
-✨ **Key Features:**
-- Responsive Flexbox & Grid layouts
-- Dynamic data fetching
-- Reusable form components
-- Intuitive user experience
+---
 
-**Stack:** `HTML` `CSS` `React.js`
+### 🌤️ Weather Application
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003) [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Real-time weather tracking application with clean interface
 
-### 🌤️ **Weather Application**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+**✨ Key Features:** OpenWeather API integration • Dynamic data rendering • Responsive design • Real-time updates
 
-**Real-time weather tracking app**
-
-✨ **Key Features:**
-- OpenWeather API integration
-- Dynamic data rendering
-- Responsive design
-- Real-time updates
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
-### 📈 **More Projects Coming Soon...**
-
-Currently working on:
-- 🔄 Advanced React patterns implementation
-- 🏗️ Scalable system architecture
-- ⚡ Performance optimization techniques
-- 🚀 Production-ready solutions
-
-**Stay tuned for updates!**
-
-</td>
-</tr>
-</table>
-
-</div>
+**Tech Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -276,17 +204,16 @@ Currently working on:
 <!-- GITHUB STATISTICS SECTION -->
 <!-- ===================================================================================== -->
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manavjain2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manavjain2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavjain2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manavjain2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavjain2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -294,37 +221,21 @@ Currently working on:
 <!-- EDUCATION & LEARNING SECTION -->
 <!-- ===================================================================================== -->
 
-## 🎓 **Education & Continuous Learning**
+## 🎓 Education & Continuous Learning
 
-```javascript
-const education = {
-  current: {
-    degree: "Master of Computer Applications (MCA)",
-    institution: "Sikkim Manipal University",
-    duration: "2025 - 2027",
-    focus: "Advanced Software Development & System Architecture"
-  },
-  completed: [
-    {
-      program: "Diploma in MERN Full Stack",
-      institution: "DUCAT",
-      year: "2024 - 2025",
-      expertise: ["React.js", "Redux", "Node.js", "MongoDB", "Express.js"]
-    },
-    {
-      degree: "B.Com in Marketing & Finance",
-      institution: "IGNOU",
-      year: "2021 - 2024"
-    }
-  ],
-  currentFocus: [
-    "Advanced React.js patterns",
-    "Backend architecture & optimization",
-    "Scalable system design",
-    "Production-ready code practices"
-  ]
-}
-```
+**Master of Computer Applications (MCA)** - *Sikkim Manipal University* (2025 - 2027)  
+Focusing on advanced software development, system architecture, and enterprise-level programming concepts
+
+**Diploma in MERN Full Stack** - *DUCAT* (2024 - 2025)  
+Comprehensive training in React.js, Redux, Node.js, MongoDB, Express.js with hands-on project development
+
+**B.Com in Marketing & Finance** - *Indira Gandhi National Open University* (2021 - 2024)
+
+### 🌱 Current Learning Focus
+- Advanced React.js patterns and best practices
+- Backend architecture and system design optimization  
+- Scalable application development
+- Production-ready code implementation techniques
 
 ---
 
@@ -332,13 +243,11 @@ const education = {
 <!-- CONTACT & COLLABORATION SECTION -->
 <!-- ===================================================================================== -->
 
-## 🤝 **Let's Build Something Amazing Together**
+## 🤝 Let's Build Something Amazing Together
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-### 📫 **Reach Out**
+### 📫 Reach Out
 
 <p>
   <a href="https://linkedin.com/in/manav-jain-b950a9264">
@@ -352,13 +261,11 @@ const education = {
   </a>
 </p>
 
-### 💡 **Open To**
+**Open to:** Full-time opportunities, freelance projects, and open-source contributions
 
-```yaml
-Collaboration: Full-time opportunities, freelance projects, open-source contributions
-Interests: MERN stack development, system architecture, performance optimization
-Availability: Ready to discuss innovative ideas and impactful solutions
-```
+**Interests:** MERN stack development, system architecture, and performance optimization
+
+**Availability:** Ready to discuss innovative ideas and impactful solutions
 
 <i>✨ Passionate about crafting elegant solutions to complex problems</i>
 
