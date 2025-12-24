@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manav%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manav+Jain+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;React+%7C+Node+%7C+MongoDB" />
 </p>
 
