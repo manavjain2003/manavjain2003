@@ -64,14 +64,18 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
+<!-- Professional Highlights Section - Replace from line ~75 to ~100 -->
+
 <div align="center">
-## 🎯 Professional Highlights
+
+### 🎯 Professional Highlights
+
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <th width="30%">📋 Category</th>
-<th width="200%">🔍 Details</th>
+<th width="70%">🔍 Details</th>
 </tr>
 <tr>
 <td><strong>Role</strong></td>
@@ -92,7 +96,9 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </table>
 
 <div align="center">
+
 ### ⚡ Key Achievements
+
 </div>
 
 <table width="100%">
