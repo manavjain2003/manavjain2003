@@ -44,7 +44,7 @@
 ### 💼 About Me
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -66,7 +66,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 ### 🎯 Professional Highlights
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
   
 <table width="100%">
 <tr>
