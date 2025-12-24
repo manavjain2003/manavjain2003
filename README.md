@@ -49,6 +49,8 @@
 
 Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
 
+<br clear="right"/>
+
 ### 🎯 Professional Highlights
 
 | 📋 Category | 🔍 Details |
