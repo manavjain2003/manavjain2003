@@ -41,18 +41,13 @@
 <!-- PROFESSIONAL INTRODUCTION -->
 <!-- ===================================================================================== -->
 
-<div align="center">
-
 ## 💼 About Me
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-</div>
-
 **Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**. Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
 
-### 🎯 **Professional Highlights**
-
+### 🎯 Professional Highlights
 ```yaml
 Role: Full Stack Developer (MERN Specialist)
 Location: New Delhi, India
