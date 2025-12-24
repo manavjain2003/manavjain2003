@@ -26,19 +26,12 @@ Improving application performance and code maintainability
 
 Exploring React Native and backend optimization techniques
 
-### 🛠 Tech Stack
+## 🛠 Skills & Technologies
 
-Languages: JavaScript, HTML, CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,firebase" />
+</p>
 
-Frontend: React.js, Redux, Tailwind CSS
-
-Backend: Node.js, Express.js
-
-Databases: MongoDB, MySQL
-
-Tools: Git, GitHub, VS Code, Thunder Client
-
-Other Exposure: Ruby, React Native, Firebase, CDN integration
 
 ### 📌 Featured Work
 
