@@ -273,11 +273,9 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- ===================================================================================== -->
 <div align="center">
 
-##🚀 Featured Projects
+## 🚀 Featured Projects
 
 
-</div>
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
