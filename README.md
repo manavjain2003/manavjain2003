@@ -36,7 +36,7 @@
 </p>
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- ===================================================================================== -->
 <!-- PROFESSIONAL INTRODUCTION -->
 <!-- ===================================================================================== -->
@@ -63,7 +63,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ===================================================================================== -->
 <!-- Professional Highlights Section -->
@@ -94,7 +94,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <td>Measurable improvements across e-commerce, HRM & enterprise platforms</td>
 </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- ===================================================================================== -->
 <!-- Achievements -->
 <!-- ===================================================================================== -->
@@ -114,7 +114,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- ===================================================================================== -->
 <!--  Skills -->
 <!-- ===================================================================================== -->
@@ -146,7 +146,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ===================================================================================== -->
 <!--  SKILLS SECTION WITH CATEGORIES -->
