@@ -70,10 +70,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<th width="50%">📋 Category</th>
-<th width="120%">🔍 Details</th>
+<th width="30%">📋 Category</th>
+<th width="70%">🔍 Details</th>
 </tr>
 <tr>
 <td><strong>Role</strong></td>
