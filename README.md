@@ -175,11 +175,8 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 <div align="center">
-
 ## 💼 Professional Journey
-
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-
 </div>
 
 <table width="100%">
@@ -250,6 +247,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ===================================================================================== -->
 <div align="center">
+  
 ## 🚀 Featured Projects
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 </div>
@@ -438,7 +436,6 @@ CI/CD pipelines & deployment automation
 <div align="center">
 
 ## 🤝 Let's Build Something Amazing Together
-
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 
