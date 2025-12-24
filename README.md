@@ -33,14 +33,7 @@
   <img src="https://img.shields.io/github/stars/manavjain2003?label=Stars&style=flat-square&color=yellow" alt="stars" />
 </p>
 
-
-
-<!-- PROFESSIONAL INTRODUCTION -->
-
-
-  
 ### 💼 About Me
-
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <table>
@@ -60,12 +53,9 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
-<!-- Professional Highlights Section -->
-
 ### 🎯 Professional Highlights
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-  
 <table width="100%">
 <tr>
 <th width="30%">📋 Category</th>
@@ -88,14 +78,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <td>Measurable improvements across e-commerce, HRM & enterprise platforms</td>
 </tr>
 </table>
-<!-- ===================================================================================== -->
-<!-- Achievements -->
-<!-- ===================================================================================== -->
 
 ### ⚡ Key Achievements
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-
 <table width="100%">
 <tr>
 <td>
@@ -109,14 +95,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 </table>
-<!-- ===================================================================================== -->
-<!--  Skills -->
-<!-- ===================================================================================== -->
 
 ### 🔥 Core Competencies
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -142,7 +124,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </div>
 
-<!--  SKILLS SECTION WITH CATEGORIES -->
+<!-- SKILLS SECTION WITH CATEGORIES -->
 
 <div align="center">
 
@@ -151,47 +133,42 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 ### **Frontend Development**
-
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### **Backend Development**
-
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### **Mobile & Cross-Platform**
-
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ### **Development Tools & Workflow**
-
 <p>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Thunder_Client-6C3483?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Thunder Client"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thunder_Client-6C3483?style=for-the-badge&logo=thunderbird&logoColor=white"/>
 </p>
 
 ### **Additional Technologies**
-
 <p>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-  <img src="https://img.shields.io/badge/Bunny_CDN-FF6C37?style=for-the-badge&logo=bunny&logoColor=white" alt="Bunny CDN"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bunny_CDN-FF6C37?style=for-the-badge&logo=bunny&logoColor=white"/>
 </p>
 
 </div>
@@ -199,7 +176,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 <div align="center">
 
-### 💼 Professional Journey
+## 💼 Professional Journey
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
