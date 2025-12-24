@@ -263,6 +263,8 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 ##### **Key Achievements:**
 
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
 - 🔐 Architected secure **Role-Based Access Control (RBAC)** system managing Admin, HR, and Executive roles
 - 📊 Built comprehensive **Client Dashboard** increasing conversion tracking by **10%**
 - ⏱️ Developed dynamic **HR leave management system** reducing approval time by **30%**
@@ -278,7 +280,6 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
----
 
 <!-- ===================================================================================== -->
 <!-- FEATURED PROJECTS SECTION -->
@@ -286,7 +287,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <div align="center">
 
 ## 🚀 Featured Projects
-
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 <table>
 <tr>
@@ -395,8 +396,6 @@ CI/CD pipelines & deployment automation
 💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
 </div>
 
----
-
 <!-- ===================================================================================== -->
 <!-- GITHUB STATISTICS SECTION -->
 <!-- ===================================================================================== -->
@@ -404,6 +403,8 @@ CI/CD pipelines & deployment automation
 <div align="center">
 
 ## 📊 GitHub Analytics
+
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manavjain2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
@@ -413,7 +414,6 @@ CI/CD pipelines & deployment automation
 
 </div>
 
----
 
 <!-- ===================================================================================== -->
 <!-- EDUCATION & LEARNING SECTION -->
@@ -423,6 +423,7 @@ CI/CD pipelines & deployment automation
 
 ## 🎓 Education & Continuous Learning
 
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 </div>
 
@@ -463,7 +464,7 @@ CI/CD pipelines & deployment automation
 - Scalable system design
 - Production-ready code practices
 
----
+
 
 <!-- ===================================================================================== -->
 <!-- CONTACT & COLLABORATION SECTION -->
@@ -475,6 +476,7 @@ CI/CD pipelines & deployment automation
 
 
 ### 💡 Open To
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 </div>
 
