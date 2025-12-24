@@ -98,7 +98,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </div>
 
-<div style="display: "flex" align-items:"center" >
+<div style="display: "flex" justify-content:"center" >
 - 🚀 **10% increase** in conversion tracking through comprehensive dashboard development
 - ⏱️ **30% reduction** in leave approval time via automated workflow systems
 - 🎯 **50% faster** onboarding processes through streamlined administrative controls
