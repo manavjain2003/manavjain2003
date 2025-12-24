@@ -275,99 +275,115 @@ Currently advancing technical acumen through **Master of Computer Applications (
 🚀 Featured Projects
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 </div>
-<table width="100%">
+<div align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
-🛍️ E-Commerce Application
+<h3 align="center">🛍️ E-Commerce Application</h3>
 <div align="center">
-Show Image
-Show Image
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
+<p align="center">
+  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 Full-featured responsive e-commerce platform with modern architecture
-✨ Key Features:
+✨ Highlights:
 
-🔄 Global state management with Context API
-🧩 Modular component architecture
-🛒 Seamless cart operations & checkout
+🔄 Context API state management
+🧩 Modular components
+🛒 Seamless cart & checkout
 🧭 React Router navigation
 📱 Fully responsive design
-
-🛠️ Tech Stack:
-Show Image
-Show Image
-Show Image
-</td>
-<td width="50%" valign="top">
-✈️ Visa Consultancy Website
-<div align="center">
-Show Image
-Show Image
-</div>
-Professional consultancy platform with modern UI/UX
-✨ Key Features:
-
-📐 Responsive Flexbox & Grid layouts
-🔄 Dynamic data fetching
-📝 Reusable form components
-🎨 Modern, intuitive user interface
 ⚡ Optimized performance
 
-🛠️ Tech Stack:
-Show Image
-Show Image
-Show Image
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">✈️ Visa Consultancy Website</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100">
+</div>
+<p align="center">
+  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+Professional consultancy platform with modern UI/UX
+✨ Highlights:
+
+📐 Responsive Flexbox & Grid
+🔄 Dynamic data fetching
+📝 Reusable form components
+🎨 Modern, intuitive interface
+⚡ Optimized performance
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 </td>
 </tr>
 </table>
+</div>
 <br>
-<table width="100%">
+<div align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
-🌤️ Weather Application
+<h3 align="center">🌤️ Weather Application</h3>
 <div align="center">
-Show Image
-Show Image
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 </div>
+<p align="center">
+  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 Real-time weather tracking application
-✨ Key Features:
+✨ Highlights:
 
 🌍 OpenWeather API integration
 📊 Dynamic data rendering
-📱 Responsive design across devices
-⚡ Real-time weather updates
+📱 Responsive across devices
+⚡ Real-time updates
 🔍 City search functionality
 
-🛠️ Tech Stack:
-Show Image
-Show Image
-Show Image
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 </td>
 <td width="50%" valign="top">
-🚧 More Projects Coming Soon...
+<h3 align="center">🚧 More Projects Coming Soon</h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
 </div>
 🔨 Currently working on:
-
-📦 Advanced React Patterns
-Implementing compound components & render props
+🔮 Advanced React Patterns
+Compound components & render props
 🏗️ Scalable System Architecture
-Microservices & clean architecture principles
+Microservices & clean architecture
 ⚡ Performance Optimization
-Code splitting, lazy loading & caching strategies
+Code splitting, lazy loading & caching
 🚀 Production-Ready Solutions
 CI/CD pipelines & deployment automation
-
-<div align="center">
-⭐ Stay tuned for updates!
-</div>
+<p align="center"><b>⭐ Stay tuned for updates!</b></p>
 </td>
 </tr>
 </table>
-
+</div>
 <div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
 </div>
+
 
 <!-- ===================================================================================== -->
 <!-- GITHUB STATISTICS SECTION -->
