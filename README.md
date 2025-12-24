@@ -66,4 +66,16 @@ Writing more efficient, production-ready code
 
 📧 Email: manav7421@gmail.com
 
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manavjain2003&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+
 ⭐ I’m always open to learning, collaboration, and building meaningful software.
+
+
