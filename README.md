@@ -194,15 +194,12 @@ Currently advancing technical acumen through **Master of Computer Applications (
   <img src="https://img.shields.io/badge/Bunny_CDN-FF6C37?style=for-the-badge&logo=bunny&logoColor=white" alt="Bunny CDN"/>
 </p>
 
-</div>
-
 
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 
 
-<div align="center">
 ### 💼 Professional Journey
-</div>
+
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <details open>
@@ -242,6 +239,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </details>
 
+</div>
 ---
 
 <!-- ===================================================================================== -->
