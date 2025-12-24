@@ -283,8 +283,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- FEATURED PROJECTS SECTION -->
 
 <div align="center">
-
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
@@ -393,7 +392,9 @@ CI/CD pipelines & deployment automation
 <br>
 <br><br>
 💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
+  
 </div>
+
 
 <!-- ===================================================================================== -->
 <!-- GITHUB STATISTICS SECTION -->
