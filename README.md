@@ -194,6 +194,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
   <img src="https://img.shields.io/badge/Bunny_CDN-FF6C37?style=for-the-badge&logo=bunny&logoColor=white" alt="Bunny CDN"/>
 </p>
 
+</div>
 
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 <div align="center">
@@ -272,7 +273,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ===================================================================================== -->
 <div align="center">
-🚀 Featured Projects
+## 🚀 Featured Projects
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 </div>
 <div align="center">
@@ -379,7 +380,6 @@ CI/CD pipelines & deployment automation
 </div>
 <div align="center">
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
 💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
 </div>
