@@ -1,4 +1,7 @@
-👋 Hi, I’m Manav Jain
+# 👋 Hi, I'm Manav Jain  
+
+### 🚀 Full Stack Developer (MERN) | Building Scalable Web & Mobile Apps
+
 
 I’m a Full Stack Developer (MERN) based in New Delhi, focused on building scalable, user-friendly web and mobile applications. I enjoy working across the stack — from crafting clean, responsive UIs to designing reliable backend systems and APIs.
 
