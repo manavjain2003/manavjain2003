@@ -195,240 +195,295 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </p>
 
 
-<!-- PROFESSIONAL EXPERIENCE SECTION -->
+<!-- ===================================================================================== -->
+<!-- PROFESSIONAL EXPERIENCE SECTION - ENHANCED -->
+<!-- ===================================================================================== -->
+
 <div align="center">
 
-### 💼 Professional Journey
+## 💼 Professional Journey
+
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 </div>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-<details open>
-<summary><b>🏢 Full Stack Developer @ Inquisitor InfoSoft Private Limited</b> <i>(Oct 2025 - Present)</i></summary>
+<!-- Current Role -->
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 🏢 Full Stack Developer @ **Inquisitor InfoSoft Private Limited**
+**📅 October 2025 - Present** | 📍 New Delhi, India
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🛒 ShopMeFast - E-Commerce Platform
+
+**Impact & Contributions:**
+- ⚡ Integrated **Bunny CDN** for dramatically improved page load performance
+- 🎨 Enhanced UI with Ruby & JavaScript for superior UX
+- 🗄️ Optimized MySQL database architecture for scalability
+- 📦 Engineered multi-category product system with intuitive navigation
+- 🚀 Contributed to full-scale e-commerce supporting diverse product lines
+
+</td>
+<td width="50%" valign="top">
+
+#### 📱 HRM Mobile Application - Attendance System
+
+**Impact & Contributions:**
+- 📲 Developed React Native mobile app for real-time attendance tracking
+- 🔌 Built robust API integrations for logging & data retrieval
+- 👥 Designed clean, intuitive UI for employee and admin workflows
+- 🏗️ Established scalable API-driven architecture
+- ⚙️ Streamlined attendance management processes
+
+</td>
+</tr>
+</table>
+
+**🛠️ Technologies:** `React Native` `Ruby` `JavaScript` `MySQL` `Firebase` `Bunny CDN`
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-**ShopMeFast - E-Commerce Platform**
-- 🛒 Contributing to full-scale e-commerce system supporting multiple product categories
-- ⚡ Implemented **Bunny CDN integration**, significantly reducing page load times
-- 🎨 Enhanced UI using Ruby and JavaScript for improved user experience
-- 🗄️ Optimized MySQL database for efficient product and category management
-- 📦 Designed multi-category product functionality improving navigation
+<!-- Previous Role -->
+<table width="100%">
+<tr>
+<td width="100%">
 
-**HRM Mobile Application - Attendance System**
-- 📱 Built React Native mobile app for employee attendance tracking
-- 🔌 Implemented API integrations for attendance logging and data retrieval
-- 👥 Developed clean UI screens for employee and admin modules
-- 🔄 Established API-driven data flow architecture
+### 🏢 Full Stack Developer @ **AtozeeVisas Consulting Private Limited**
+**📅 January 2025 - October 2025** | 📍 New Delhi, India
 
-**Tech Stack:** `React Native` `Ruby` `JavaScript` `MySQL` `Firebase` `Bunny CDN`
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-</details>
+#### 🔐 RBAC System
+- Built secure role-based authentication
+- Managed Admin, HR & Executive hierarchies
+- Implemented granular permissions
+- Enhanced security protocols
 
-<details>
-<summary><b>🏢 Full Stack Developer @ AtozeeVisas Consulting Private Limited</b> <i>(Jan 2025 - Oct 2025)</i></summary>
-<br/>
+</td>
+<td width="33%" valign="top">
 
-**Key Achievements:**
-- 🔐 Architected secure **Role-Based Access Control (RBAC)** system managing Admin, HR, and Executive roles
-- 📊 Built comprehensive **Client Dashboard** increasing conversion tracking by **10%**
-- ⏱️ Developed dynamic **HR leave management system** reducing approval time by **30%**
-- 🎨 Designed responsive interfaces using React.js and CSS for optimal cross-device experience
-- 📰 Integrated real-time news content via **Axios API**, streamlining onboarding by **50%**
-- 🔄 Implemented automated workflow processes eliminating paper-based submissions
+#### 📊 Client Dashboard
+- **10% increase** in conversion tracking
+- Real-time analytics integration
+- Responsive design across devices
+- Data visualization components
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `CSS` `Axios`
+</td>
+<td width="33%" valign="top">
 
-</details>
+#### ⏱️ HR Leave Management
+- **30% faster** approval workflows
+- Automated submission processes
+- Dynamic status tracking
+- **50% faster** employee onboarding
+
+</td>
+</tr>
+</table>
+
+**🛠️ Technologies:** `React.js` `Node.js` `Express.js` `MongoDB` `CSS` `Axios`
+
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- ===================================================================================== -->
-<!-- FEATURED PROJECTS SECTION -->
+<!-- FEATURED PROJECTS SECTION - ENHANCED -->
 <!-- ===================================================================================== -->
 
 <div align="center">
 
 ## 🚀 Featured Projects
 
-<table>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
+</div>
+
+<!-- Project Card 1 -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-### 🛍️ **E-Commerce Application**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="E-Commerce" width="150" height="150"/>
 
-**Full-featured responsive e-commerce platform**
+### 🛍️ E-Commerce Application
 
-✨ **Key Features:**
-- Global state management with Context API
-- Modular component architecture
-- Seamless cart operations
-- React Router navigation
-
-**Stack:** `React` `React Router` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ **Visa Consultancy Website**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
-
-**Professional consultancy platform**
-
-✨ **Key Features:**
-- Responsive Flexbox & Grid layouts
-- Dynamic data fetching
-- Reusable form components
-- Intuitive user experience
-
-**Stack:** `HTML` `CSS` `React.js`
+<p>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+</a>
+</p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🌤️ **Weather Application**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+**Full-featured responsive e-commerce platform with modern architecture**
 
-**Real-time weather tracking app**
+#### ✨ Key Highlights
 
-✨ **Key Features:**
-- OpenWeather API integration
-- Dynamic data rendering
-- Responsive design
-- Real-time updates
+- 🎯 **Context API** for efficient global state management
+- 🧩 **Modular architecture** with reusable components
+- 🛒 **Seamless cart operations** with real-time updates
+- 🧭 **React Router** for smooth SPA navigation
+- 📱 **Fully responsive** design for all devices
 
-**Stack:** `HTML` `CSS` `JavaScript`
+#### 🛠️ Tech Stack
+`React.js` • `React Router` • `Context API` • `Tailwind CSS`
 
-</td>
-<td width="50%" valign="top">
-
-### 📈 **More Projects Coming Soon...**
-
-Currently working on:
-- 🔄 Advanced React patterns implementation
-- 🏗️ Scalable system architecture
-- ⚡ Performance optimization techniques
-- 🚀 Production-ready solutions
-
-**Stay tuned for updates!**
+#### 💡 Learning Outcomes
+Advanced state management patterns, component composition, and modern React best practices
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
----
+<!-- Project Card 2 -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-<!-- ===================================================================================== -->
-<!-- GITHUB STATISTICS SECTION -->
-<!-- ===================================================================================== -->
+**Professional visa consultancy platform with elegant design**
 
-<div align="center">
+#### ✨ Key Highlights
 
-## 📊 GitHub Analytics
+- 🎨 **Responsive layouts** using Flexbox & Grid
+- 📡 **Dynamic data fetching** with optimized performance
+- 📝 **Reusable form components** for consistent UX
+- 🎯 **Intuitive navigation** and user flow
+- 💼 **Professional design** with modern aesthetics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manavjain2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+#### 🛠️ Tech Stack
+`HTML5` • `CSS3` • `React.js` • `Responsive Design`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavjain2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manavjain2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+#### 💡 Learning Outcomes
+Advanced CSS techniques, form handling, and professional UI/UX design principles
 
-</div>
+</td>
+<td width="40%" align="center" valign="middle">
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Visa Consultancy" width="150" height="150"/>
 
-<!-- ===================================================================================== -->
-<!-- EDUCATION & LEARNING SECTION -->
-<!-- ===================================================================================== -->
-
-<div align="center">
-
-## 🎓 Education & Continuous Learning
-
-</div>
-```javascript
-const education = {
-  current: {
-    degree: "Master of Computer Applications (MCA)",
-    institution: "Sikkim Manipal University",
-    duration: "2025 - 2027",
-    focus: "Advanced Software Development & System Architecture"
-  },
-  completed: [
-    {
-      program: "Diploma in MERN Full Stack",
-      institution: "DUCAT",
-      year: "2024 - 2025",
-      expertise: ["React.js", "Redux", "Node.js", "MongoDB", "Express.js"]
-    },
-    {
-      degree: "B.Com in Marketing & Finance",
-      institution: "IGNOU",
-      year: "2021 - 2024"
-    }
-  ],
-  currentFocus: [
-    "Advanced React.js patterns",
-    "Backend architecture & optimization",
-    "Scalable system design",
-    "Production-ready code practices"
-  ]
-}
-```
-
----
-
-<!-- ===================================================================================== -->
-<!-- CONTACT & COLLABORATION SECTION -->
-<!-- ===================================================================================== -->
-
-<div align="center">
-
-## 🤝 Let's Build Something Amazing Together
-
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-
-### 📫 Reach Out
+### ✈️ Visa Consultancy Website
 
 <p>
-  <a href="https://linkedin.com/in/manav-jain-b950a9264">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:manav7421@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://manavjain-portfolio-2025.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-00C7B7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+</a>
 </p>
 
-### 💡 Open To
-```yaml
-Collaboration: Full-time opportunities, freelance projects, open-source contributions
-Interests: MERN stack development, system architecture, performance optimization
-Availability: Ready to discuss innovative ideas and impactful solutions
-```
+</td>
+</tr>
+</table>
 
-<i>✨ Passionate about crafting elegant solutions to complex problems</i>
+<br/>
 
-</div>
+<!-- Project Card 3 -->
+<table width="100%">
+<tr>
+<td width="40%" align="center" valign="middle">
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Weather App" width="150" height="150"/>
 
-<!-- ===================================================================================== -->
-<!-- FOOTER WITH WAVE -->
-<!-- ===================================================================================== -->
+### 🌤️ Weather Application
 
+<p>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/manavjain2003">
+  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+</a>
+</p>
+
+</td>
+<td width="60%" valign="top">
+
+**Real-time weather tracking application with live API integration**
+
+#### ✨ Key Highlights
+
+- 🌍 **OpenWeather API** integration for accurate data
+- ⚡ **Dynamic rendering** of weather information
+- 📱 **Responsive design** for mobile and desktop
+- 🔄 **Real-time updates** with API polling
+- 🎨 **Clean interface** with weather animations
+
+#### 🛠️ Tech Stack
+`HTML5` • `CSS3` • `JavaScript` • `OpenWeather API`
+
+#### 💡 Learning Outcomes
+API integration, asynchronous JavaScript, and dynamic DOM manipulation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Future Projects Card -->
 <div align="center">
 
-### ⭐ **From [Manav Jain](https://github.com/manavjain2003)** - *Building the future, one commit at a time*
+### 📈 Innovation Pipeline
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling"/>
+<table width="80%">
+<tr>
+<td align="center" width="25%">
+
+**🧠 Advanced React Patterns**
+
+Implementing cutting-edge React design patterns
+
+</td>
+<td align="center" width="25%">
+
+**🏗️ System Architecture**
+
+Building scalable, maintainable systems
+
+</td>
+<td align="center" width="25%">
+
+**⚡ Performance Optimization**
+
+Fine-tuning for production excellence
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Production Solutions**
+
+Enterprise-ready applications
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Coming-Q1_2026-blue?style=for-the-badge" alt="Timeline"/>
+
+**Stay tuned for exciting updates!**
 
 </div>
