@@ -384,40 +384,52 @@ CI/CD pipelines & deployment automation
 <!-- EDUCATION & LEARNING SECTION -->
 <!-- ===================================================================================== -->
 
-<div align="center">
+<h2 align="center">🎓 Education & Continuous Learning</h2>
 
-## 🎓 Education & Continuous Learning
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF, #FF6B6B); margin: 30px 0;">
 
-</div>
-```javascript
-const education = {
-  current: {
-    degree: "Master of Computer Applications (MCA)",
-    institution: "Sikkim Manipal University",
-    duration: "2025 - 2027",
-    focus: "Advanced Software Development & System Architecture"
-  },
-  completed: [
-    {
-      program: "Diploma in MERN Full Stack",
-      institution: "DUCAT",
-      year: "2024 - 2025",
-      expertise: ["React.js", "Redux", "Node.js", "MongoDB", "Express.js"]
-    },
-    {
-      degree: "B.Com in Marketing & Finance",
-      institution: "IGNOU",
-      year: "2021 - 2024"
-    }
-  ],
-  currentFocus: [
-    "Advanced React.js patterns",
-    "Backend architecture & optimization",
-    "Scalable system design",
-    "Production-ready code practices"
-  ]
-}
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Current Education
+
+<b>Master of Computer Applications (MCA)</b><br>
+📍 Sikkim Manipal University<br>
+📅 2025 – 2027
+
+<br>
+
+<b>Focus Areas</b>
+- Advanced Software Development  
+- System Architecture  
+- Backend Optimization  
+- Scalable Application Design  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Completed Education
+
+<b>Diploma in MERN Full Stack</b><br>
+📍 DUCAT<br>
+📅 2024 – 2025
+
+- React.js & Redux  
+- Node.js & Express.js  
+- MongoDB  
+
+<br>
+
+<b>B.Com (Marketing & Finance)</b><br>
+📍 IGNOU<br>
+📅 2021 – 2024
+
+</td>
+</tr>
+</table>
+
 
 <!-- ===================================================================================== -->
 <!-- CONTACT & COLLABORATION SECTION -->
