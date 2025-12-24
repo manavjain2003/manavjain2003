@@ -64,7 +64,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
-<!-- Professional Highlights Section - Replace from line ~75 to ~100 -->
+<!-- Professional Highlights Section -->
 
 <!-- Professional Highlights Section - Replace from line ~75 to ~100 -->
 
@@ -111,15 +111,9 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
 ### 🔥 Core Competencies
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -141,6 +135,8 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
