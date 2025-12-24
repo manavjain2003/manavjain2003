@@ -283,9 +283,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- FEATURED PROJECTS SECTION -->
 
 <div align="center">
-  <h2> 🚀 Featured Projects </h2>
-  
+  <h2 style="border-bottom: none;"> 🚀 Featured Projects </h2>
+
   <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+</div>
 
 
 <table>
