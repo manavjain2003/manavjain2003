@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Typing Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=MANAV%20JAIN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=MANAV%20JAIN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Developer&descAlignY=55&descSize=20"/>
 
 <!-- Animated Typing Introduction -->
 <div align="center">
@@ -49,8 +49,6 @@
 
 Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
 
-<br>
-
 ### 🎯 Professional Highlights
 
 | 📋 Category | 🔍 Details |
@@ -59,8 +57,6 @@ Currently advancing technical acumen through **Master of Computer Applications (
 | **Location** | New Delhi, India |
 | **Focus** | Scalable Web & Mobile Applications |
 | **Impact** | Measurable improvements across e-commerce, HRM & enterprise platforms |
-
-<br>
 
 ### ⚡ Key Achievements
 
