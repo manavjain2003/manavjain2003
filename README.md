@@ -58,7 +58,7 @@ Backend architecture & system design
 
 Writing more efficient, production-ready code
 
-📫 Let’s Connect
+### 📫 Let’s Connect
 
 🌐 Portfolio: https://manavjain-portfolio-2025.netlify.app
 
