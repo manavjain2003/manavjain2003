@@ -58,7 +58,6 @@ Backend architecture & system design
 
 Writing more efficient, production-ready code
 
-### 📫 Let’s Connect
 
 ## 📫 Connect With Me
 
