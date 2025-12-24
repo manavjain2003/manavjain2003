@@ -438,43 +438,70 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- ===================================================================================== -->
 <!-- EDUCATION & LEARNING SECTION -->
 <!-- ===================================================================================== -->
-
 <div align="center">
-
-## 🎓 Education & Continuous Learning
-
+🎓 Education & Continuous Learning
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 </div>
-```javascript
-const education = {
-  current: {
-    degree: "Master of Computer Applications (MCA)",
-    institution: "Sikkim Manipal University",
-    duration: "2025 - 2027",
-    focus: "Advanced Software Development & System Architecture"
-  },
-  completed: [
-    {
-      program: "Diploma in MERN Full Stack",
-      institution: "DUCAT",
-      year: "2024 - 2025",
-      expertise: ["React.js", "Redux", "Node.js", "MongoDB", "Express.js"]
-    },
-    {
-      degree: "B.Com in Marketing & Finance",
-      institution: "IGNOU",
-      year: "2021 - 2024"
-    }
-  ],
-  currentFocus: [
-    "Advanced React.js patterns",
-    "Backend architecture & optimization",
-    "Scalable system design",
-    "Production-ready code practices"
-  ]
-}
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+📚 Current Education
+Master of Computer Applications (MCA)
+🏛️ Sikkim Manipal University
+📅 2025 - 2027
+Focus Areas:
 
----
+Advanced Software Development
+System Architecture
+Production-Ready Practices
+Scalable Design Patterns
+
+</td>
+<td width="50%" valign="top">
+✅ Completed Programs
+Diploma in MERN Full Stack
+🏛️ DUCAT
+📅 2024 - 2025
+Tech Expertise:
+
+React.js & Redux
+Node.js & Express.js
+MongoDB & Database Design
+
+
+B.Com in Marketing & Finance
+🏛️ IGNOU
+📅 2021 - 2024
+</td>
+</tr>
+</table>
+<div align="center">
+🎯 Current Learning Focus
+<table width="80%">
+<tr>
+<td align="center" width="25%">
+⚛️ Advanced React
+<br>
+Patterns & Hooks
+</td>
+<td align="center" width="25%">
+🏗️ Architecture
+<br>
+Backend Optimization
+</td>
+<td align="center" width="25%">
+📐 System Design
+<br>
+Scalable Solutions
+</td>
+<td align="center" width="25%">
+🚀 Production Code
+<br>
+Best Practices
+</td>
+</tr>
+</table>
+</div>
 
 <!-- ===================================================================================== -->
 <!-- CONTACT & COLLABORATION SECTION -->
