@@ -98,12 +98,13 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </div>
 
+<div align="center">
 - 🚀 **10% increase** in conversion tracking through comprehensive dashboard development
 - ⏱️ **30% reduction** in leave approval time via automated workflow systems
 - 🎯 **50% faster** onboarding processes through streamlined administrative controls
 - 🔐 Architected **role-based authentication systems** managing multiple user hierarchies
 - ⚙️ Optimized **application performance** through CDN integration and clean architecture
-
+</div>
 <div align="center">
 
 ### 🔥 Core Competencies
