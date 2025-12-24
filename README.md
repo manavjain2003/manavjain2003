@@ -43,22 +43,32 @@
 
 ## 💼 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**. Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
+**Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**. 
+
+Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
+
+<br>
 
 ### 🎯 Professional Highlights
 
-**Role:** Full Stack Developer (MERN Specialist)  
-**Location:** New Delhi, India  
-**Focus:** Scalable Web & Mobile Applications  
-**Impact:** Delivered measurable improvements across e-commerce, HRM, and enterprise platforms
+| 📋 Category | 🔍 Details |
+|------------|-----------|
+| **Role** | Full Stack Developer (MERN Specialist) |
+| **Location** | New Delhi, India |
+| **Focus** | Scalable Web & Mobile Applications |
+| **Impact** | Measurable improvements across e-commerce, HRM & enterprise platforms |
 
-- ⚡ **10% increase** in conversion tracking through comprehensive dashboard development
-- ⚡ **30% reduction** in leave approval time via automated workflow systems
-- ⚡ **50% faster** onboarding processes through streamlined administrative controls
-- ⚡ Architected **role-based authentication systems** managing multiple user hierarchies
-- ⚡ Optimized **application performance** through CDN integration and clean architecture
+<br>
+
+### ⚡ Key Achievements
+
+- 🚀 **10% increase** in conversion tracking through comprehensive dashboard development
+- ⏱️ **30% reduction** in leave approval time via automated workflow systems
+- 🎯 **50% faster** onboarding processes through streamlined administrative controls
+- 🔐 Architected **role-based authentication systems** managing multiple user hierarchies
+- ⚙️ Optimized **application performance** through CDN integration and clean architecture
 
 ### 🔥 **Core Competencies**
 
