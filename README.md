@@ -64,16 +64,12 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
-<div align="center">
-
 ### 🎯 Professional Highlights
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<th width="30%">📋 Category</th>
-<th width="70%">🔍 Details</th>
+<td width="30%"><strong>📋 Category</strong></td>
+<td width="70%"><strong>🔍 Details</strong></td>
 </tr>
 <tr>
 <td><strong>Role</strong></td>
@@ -93,7 +89,6 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
-</div>
 <div align="center">
 
 ### ⚡ Key Achievements
