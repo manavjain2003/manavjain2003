@@ -148,7 +148,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
+### 🛠️ Technology Arsenal
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
