@@ -271,151 +271,103 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- ===================================================================================== -->
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ===================================================================================== -->
-
 <div align="center">
-
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-
 </div>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
+🛍️ E-Commerce Application
 <div align="center">
-
-### 🛍️ E-Commerce Application
-
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-</a>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
+Show Image
+Show Image
 </div>
+Full-featured responsive e-commerce platform with modern architecture
+✨ Key Features:
 
-<br>
+🔄 Global state management with Context API
+🧩 Modular component architecture
+🛒 Seamless cart operations & checkout
+🧭 React Router navigation
+📱 Fully responsive design
 
-**Full-featured responsive e-commerce platform**
-
-<br>
-
-✨ **Key Features:**
-
-- Global state management with Context API
-- Modular component architecture
-- Seamless cart operations
-- React Router navigation
-
-<br>
-
-**Stack:** `React` `React Router` `Tailwind CSS`
-
+🛠️ Tech Stack:
+Show Image
+Show Image
+Show Image
 </td>
 <td width="50%" valign="top">
+✈️ Visa Consultancy Website
+<div align="center">
+Show Image
+Show Image
+</div>
+Professional consultancy platform with modern UI/UX
+✨ Key Features:
+
+📐 Responsive Flexbox & Grid layouts
+🔄 Dynamic data fetching
+📝 Reusable form components
+🎨 Modern, intuitive user interface
+⚡ Optimized performance
+
+🛠️ Tech Stack:
+Show Image
+Show Image
+Show Image
+</td>
+</tr>
+</table>
+<br>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+🌤️ Weather Application
+<div align="center">
+Show Image
+Show Image
+</div>
+Real-time weather tracking application
+✨ Key Features:
+
+🌍 OpenWeather API integration
+📊 Dynamic data rendering
+📱 Responsive design across devices
+⚡ Real-time weather updates
+🔍 City search functionality
+
+🛠️ Tech Stack:
+Show Image
+Show Image
+Show Image
+</td>
+<td width="50%" valign="top">
+🚧 More Projects Coming Soon...
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
+</div>
+🔨 Currently working on:
+
+📦 Advanced React Patterns
+Implementing compound components & render props
+🏗️ Scalable System Architecture
+Microservices & clean architecture principles
+⚡ Performance Optimization
+Code splitting, lazy loading & caching strategies
+🚀 Production-Ready Solutions
+CI/CD pipelines & deployment automation
 
 <div align="center">
-
-### ✈️ Visa Consultancy Website
-
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-</a>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
+⭐ Stay tuned for updates!
 </div>
-
-<br>
-
-**Professional consultancy platform**
-
-<br>
-
-✨ **Key Features:**
-
-- Responsive Flexbox & Grid layouts
-- Dynamic data fetching
-- Reusable form components
-- Intuitive user experience
-
-<br>
-
-**Stack:** `HTML` `CSS` `React.js`
-
 </td>
 </tr>
 </table>
 
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 <div align="center">
-
-### 🌤️ Weather Application
-
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-</a>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
+💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
 </div>
-
-<br>
-
-**Real-time weather tracking app**
-
-<br>
-
-✨ **Key Features:**
-
-- OpenWeather API integration
-- Dynamic data rendering
-- Responsive design
-- Real-time updates
-
-<br>
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 📈 More Projects Coming Soon...
-
-</div>
-
-<br>
-
-**Currently working on:**
-
-<br>
-
-- 🔄 Advanced React patterns implementation
-- 🏗️ Scalable system architecture
-- ⚡ Performance optimization techniques
-- 🚀 Production-ready solutions
-
-<br>
-
-**Stay tuned for updates!**
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- ===================================================================================== -->
 <!-- GITHUB STATISTICS SECTION -->
