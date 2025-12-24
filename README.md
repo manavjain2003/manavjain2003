@@ -62,11 +62,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
-<!-- ===================================================================================== -->
 <!-- Professional Highlights Section -->
-<!-- ===================================================================================== -->
 
-## 🎯 Professional Highlights
+### 🎯 Professional Highlights
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
 <table width="100%">
