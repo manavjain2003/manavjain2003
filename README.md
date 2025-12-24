@@ -65,9 +65,8 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </table>
 
 <div align="center">
-
 ### 🎯 Professional Highlights
-
+</div>div>
 <table width="100%">
 <tr>
 <th width="30%">📋 Category</th>
@@ -91,20 +90,24 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
-</div>
 <div align="center">
-
 ### ⚡ Key Achievements
-
 </div>
 
-<div style="display: "flex" justify-content:"center" >
+<table width="100%">
+<tr>
+<td>
+
 - 🚀 **10% increase** in conversion tracking through comprehensive dashboard development
 - ⏱️ **30% reduction** in leave approval time via automated workflow systems
 - 🎯 **50% faster** onboarding processes through streamlined administrative controls
 - 🔐 Architected **role-based authentication systems** managing multiple user hierarchies
 - ⚙️ Optimized **application performance** through CDN integration and clean architecture
-</div>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 ### 🔥 Core Competencies
