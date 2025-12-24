@@ -267,7 +267,17 @@ Currently advancing technical acumen through **Master of Computer Applications (
 - 🔐 Architected secure **Role-Based Access Control (RBAC)** system managing Admin, HR, and Executive roles
 - 📊 Built comprehensive **Client Dashboard** increasing conversion tracking by **10%**
 - ⏱️ Developed dynamic **HR leave management system** reducing approval time by **30%**
-- 🎨 Designed
+- 🎨 Designed responsive interfaces using React.js and CSS for optimal cross-device experience
+- 📰 Integrated real-time news content via **Axios API**, streamlining onboarding by **50%**
+- 🔄 Implemented automated workflow processes eliminating paper-based submissions
+
+<br>
+
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `CSS` `Axios`
+
+</td>
+</tr>
+</table>
 
 <!-- ===================================================================================== -->
 <!-- FEATURED PROJECTS SECTION -->
