@@ -43,13 +43,19 @@
 
 ## 💼 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div>
+  <div style="float: right; width: 400px; margin-left: 20px;">
+    <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  </div>
+  
+  <div>
+    <p><strong>Results-driven Full Stack Developer</strong> with proven expertise in building <strong>scalable, production-grade applications</strong> using the <strong>MERN stack</strong>.</p>
+    
+    <p>Currently advancing technical acumen through <strong>Master of Computer Applications (MCA)</strong> at Sikkim Manipal University while actively contributing to enterprise-level systems.</p>
+  </div>
+</div>
 
-**Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**. 
-
-Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
-
-<br clear="right"/>
+<div style="clear: both;"></div>
 
 ### 🎯 Professional Highlights
 
