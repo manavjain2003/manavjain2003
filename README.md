@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manav+Jain+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;React+%7C+Node+%7C+MongoDB" />
+</p>
+
 # 👋 Hi, I'm Manav Jain  
 
 ### 🚀 Full Stack Developer (MERN) | Building Scalable Web & Mobile Apps
@@ -7,7 +11,7 @@ I’m a Full Stack Developer (MERN) based in New Delhi, focused on building scal
 
 I’ve worked on real-world products in e-commerce, HRM systems, and enterprise platforms, where I’ve helped improve performance, streamline workflows, and ship features that actually get used.
 
-🚀 What I’m Working On
+### 🚀 What I’m Working On
 
 Building full-scale web applications using React, Node.js, and MongoDB
 
@@ -17,7 +21,7 @@ Improving application performance and code maintainability
 
 Exploring React Native and backend optimization techniques
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 Languages: JavaScript, HTML, CSS
 
@@ -31,7 +35,7 @@ Tools: Git, GitHub, VS Code, Thunder Client
 
 Other Exposure: Ruby, React Native, Firebase, CDN integration
 
-📌 Featured Work
+### 📌 Featured Work
 
 E-Commerce Platforms – Responsive UI, cart management, performance optimization
 
@@ -41,7 +45,7 @@ Enterprise Dashboards – Lead tracking, analytics, workflow automation
 
 Each project focuses on clean architecture, real usability, and scalable design.
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 
 Advanced React patterns
 
