@@ -88,12 +88,15 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <td>Measurable improvements across e-commerce, HRM & enterprise platforms</td>
 </tr>
 </table>
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
 <!-- ===================================================================================== -->
 <!-- Achievements -->
 <!-- ===================================================================================== -->
 
+
+
 ### ⚡ Key Achievements
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 <table width="100%">
 <tr>
@@ -110,12 +113,18 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </table>
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
+
+
+
 <!-- ===================================================================================== -->
 <!--  Skills -->
 <!-- ===================================================================================== -->
 
-### 🔥 Core Competencies
 
+
+### 🔥 Core Competencies
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -146,8 +155,11 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 <div align="center">
 
-### 🛠️ Technology Arsenal
 
+
+
+### 🛠️ Technology Arsenal
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 ### **Frontend Development**
 
@@ -192,13 +204,15 @@ Currently advancing technical acumen through **Master of Computer Applications (
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
   <img src="https://img.shields.io/badge/Bunny_CDN-FF6C37?style=for-the-badge&logo=bunny&logoColor=white" alt="Bunny CDN"/>
 </p>
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
+
 
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 <div align="center">
 
 ### 💼 Professional Experience
 
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 </div>
 
