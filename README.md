@@ -36,17 +36,15 @@
 </p>
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- ===================================================================================== -->
 <!-- PROFESSIONAL INTRODUCTION -->
 <!-- ===================================================================================== -->
 
 <div align="center">
-
 ## 💼 About Me
-
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -69,9 +67,9 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- Professional Highlights Section -->
 <!-- ===================================================================================== -->
 <div align="center">
-
-### 🎯 Professional Highlights
-
+## 🎯 Professional Highlights
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
 <table width="100%">
 <tr>
 <th width="30%">📋 Category</th>
@@ -94,13 +92,12 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <td>Measurable improvements across e-commerce, HRM & enterprise platforms</td>
 </tr>
 </table>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- ===================================================================================== -->
 <!-- Achievements -->
 <!-- ===================================================================================== -->
 
 ### ⚡ Key Achievements
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <table width="100%">
 <tr>
 <td>
@@ -114,13 +111,12 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 </table>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- ===================================================================================== -->
 <!--  Skills -->
 <!-- ===================================================================================== -->
 
 ### 🔥 Core Competencies
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -146,7 +142,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <!-- ===================================================================================== -->
 <!--  SKILLS SECTION WITH CATEGORIES -->
@@ -155,6 +151,7 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <div align="center">
 
 ## 🛠️ Technology Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### **Frontend Development**
 
@@ -209,11 +206,9 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <!-- ===================================================================================== -->
 
 <div align="center">
-
 ## 💼 Professional Journey
-
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <details open>
 <summary><b>🏢 Full Stack Developer @ Inquisitor InfoSoft Private Limited</b> <i>(Oct 2025 - Present)</i></summary>
 <br/>
