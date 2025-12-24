@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=Full+Stack+Developer+%F0%9F%9A%80;Architecting+Scalable+MERN+Applications;React+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+MongoDB+%F0%9F%8D%83+%7C+Express+%E2%9A%A1;Transforming+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=Full+Stack+Developer+%F0%9F%9A%80;Architecting+Scalable+MERN+Applications;React+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+MongoDB+%F0%9F%8D%83+%7C+Express+%E2%9A%A1;Transforming+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
 </div>
 
 <!-- Social Badges with Hover Effects -->
@@ -200,35 +200,57 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 ### 💼 Professional Journey
 
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
 </div>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-<details open>
-<summary><b>🏢 Full Stack Developer @ Inquisitor InfoSoft Private Limited</b> <i>(Oct 2025 - Present)</i></summary>
-<br/>
+<table width="100%">
+<tr>
+<td width="100%">
 
-**ShopMeFast - E-Commerce Platform**
+#### 🏢 **Full Stack Developer** @ Inquisitor InfoSoft Private Limited
+**📅 Oct 2025 - Present**
+
+<br>
+
+##### **ShopMeFast - E-Commerce Platform**
+
 - 🛒 Contributing to full-scale e-commerce system supporting multiple product categories
 - ⚡ Implemented **Bunny CDN integration**, significantly reducing page load times
 - 🎨 Enhanced UI using Ruby and JavaScript for improved user experience
 - 🗄️ Optimized MySQL database for efficient product and category management
 - 📦 Designed multi-category product functionality improving navigation
 
-**HRM Mobile Application - Attendance System**
+<br>
+
+##### **HRM Mobile Application - Attendance System**
+
 - 📱 Built React Native mobile app for employee attendance tracking
 - 🔌 Implemented API integrations for attendance logging and data retrieval
 - 👥 Developed clean UI screens for employee and admin modules
 - 🔄 Established API-driven data flow architecture
 
+<br>
+
 **Tech Stack:** `React Native` `Ruby` `JavaScript` `MySQL` `Firebase` `Bunny CDN`
 
-</details>
+</td>
+</tr>
+</table>
 
-<details>
-<summary><b>🏢 Full Stack Developer @ AtozeeVisas Consulting Private Limited</b> <i>(Jan 2025 - Oct 2025)</i></summary>
-<br/>
+<br>
 
-**Key Achievements:**
+<table width="100%">
+<tr>
+<td width="100%">
+
+#### 🏢 **Full Stack Developer** @ AtozeeVisas Consulting Private Limited
+**📅 Jan 2025 - Oct 2025**
+
+<br>
+
+##### **Key Achievements:**
+
 - 🔐 Architected secure **Role-Based Access Control (RBAC)** system managing Admin, HR, and Executive roles
 - 📊 Built comprehensive **Client Dashboard** increasing conversion tracking by **10%**
 - ⏱️ Developed dynamic **HR leave management system** reducing approval time by **30%**
@@ -236,130 +258,96 @@ Currently advancing technical acumen through **Master of Computer Applications (
 - 📰 Integrated real-time news content via **Axios API**, streamlining onboarding by **50%**
 - 🔄 Implemented automated workflow processes eliminating paper-based submissions
 
+<br>
+
 **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `CSS` `Axios`
 
-</details>
+</td>
+</tr>
+</table>
 
+---
 
-<!-- FEATURED PROJECTS SECTION - ENHANCED -->
-
+<!-- ===================================================================================== -->
+<!-- FEATURED PROJECTS SECTION -->
+<!-- ===================================================================================== -->
 
 <div align="center">
 
 ## 🚀 Featured Projects
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ **E-Commerce Application**
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+
+**Full-featured responsive e-commerce platform**
+
+✨ **Key Features:**
+- Global state management with Context API
+- Modular component architecture
+- Seamless cart operations
+- React Router navigation
+
+**Stack:** `React` `React Router` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ **Visa Consultancy Website**
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+
+**Professional consultancy platform**
+
+✨ **Key Features:**
+- Responsive Flexbox & Grid layouts
+- Dynamic data fetching
+- Reusable form components
+- Intuitive user experience
+
+**Stack:** `HTML` `CSS` `React.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌤️ **Weather Application**
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/manavjain2003)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://github.com/manavjain2003)
+
+**Real-time weather tracking app**
+
+✨ **Key Features:**
+- OpenWeather API integration
+- Dynamic data rendering
+- Responsive design
+- Real-time updates
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 **More Projects Coming Soon...**
+
+Currently working on:
+- 🔄 Advanced React patterns implementation
+- 🏗️ Scalable system architecture
+- ⚡ Performance optimization techniques
+- 🚀 Production-ready solutions
+
+**Stay tuned for updates!**
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<!-- Project Card 1 -->
-<table width="100%">
-<tr>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="E-Commerce" width="150" height="150"/>
-
-### 🛍️ E-Commerce Application
-
-<p>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
-</a>
-</p>
-
-</td>
-<td width="60%" valign="top">
-
-**Full-featured responsive e-commerce platform with modern architecture**
-
-#### ✨ Key Highlights
-
-- 🎯 **Context API** for efficient global state management
-- 🧩 **Modular architecture** with reusable components
-- 🛒 **Seamless cart operations** with real-time updates
-- 🧭 **React Router** for smooth SPA navigation
-- 📱 **Fully responsive** design for all devices
-
-#### 🛠️ Tech Stack
-`React.js` • `React Router` • `Context API` • `Tailwind CSS`
-
-#### 💡 Learning Outcomes
-Advanced state management patterns, component composition, and modern React best practices
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Project Card 2 -->
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-**Professional visa consultancy platform with elegant design**
-
-#### ✨ Key Highlights
-
-- 🎨 **Responsive layouts** using Flexbox & Grid
-- 📡 **Dynamic data fetching** with optimized performance
-- 📝 **Reusable form components** for consistent UX
-- 🎯 **Intuitive navigation** and user flow
-- 💼 **Professional design** with modern aesthetics
-
-#### 🛠️ Tech Stack
-`HTML5` • `CSS3` • `React.js` • `Responsive Design`
-
-#### 💡 Learning Outcomes
-Advanced CSS techniques, form handling, and professional UI/UX design principles
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Visa Consultancy" width="150" height="150"/>
-
-### ✈️ Visa Consultancy Website
-
-<p>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Project Card 3 -->
-<table width="100%">
-<tr>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Weather App" width="150" height="150"/>
-
-### 🌤️ Weather Application
-
-<p>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/manavjain2003">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
-</a>
-</p>
-
-</td>
-<td width="60%" valign="top">
-
-**Real-time weather tracking application with live API integration**
 
 ---
 
