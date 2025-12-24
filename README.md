@@ -88,14 +88,12 @@ Currently advancing technical acumen through **Master of Computer Applications (
 <td>Measurable improvements across e-commerce, HRM & enterprise platforms</td>
 </tr>
 </table>
-
 <!-- ===================================================================================== -->
 <!-- Achievements -->
 <!-- ===================================================================================== -->
 
-
-
 ### ⚡ Key Achievements
+
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 <table width="100%">
@@ -111,19 +109,14 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </td>
 </tr>
 </table>
-
-
-
 <!-- ===================================================================================== -->
 <!--  Skills -->
 <!-- ===================================================================================== -->
 
-
-
 ### 🔥 Core Competencies
 
-
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -149,15 +142,12 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 </div>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <!--  SKILLS SECTION WITH CATEGORIES -->
 
 <div align="center">
 
-
-
-
 ### 🛠️ Technology Arsenal
+
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
 ### **Frontend Development**
@@ -205,11 +195,10 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </p>
 
 
-
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 <div align="center">
 
-### 💼 Professional Experience
+### 💼 Professional Journey
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
@@ -262,8 +251,6 @@ Currently advancing technical acumen through **Master of Computer Applications (
 
 ##### **Key Achievements:**
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-
 - 🔐 Architected secure **Role-Based Access Control (RBAC)** system managing Admin, HR, and Executive roles
 - 📊 Built comprehensive **Client Dashboard** increasing conversion tracking by **10%**
 - ⏱️ Developed dynamic **HR leave management system** reducing approval time by **30%**
@@ -279,13 +266,16 @@ Currently advancing technical acumen through **Master of Computer Applications (
 </tr>
 </table>
 
+---
+
 <!-- ===================================================================================== -->
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ===================================================================================== -->
 <div align="center">
- ### 🚀 Featured Projects
-  
-  <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+🚀 Featured Projects
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+</div>
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -386,14 +376,12 @@ CI/CD pipelines & deployment automation
 </td>
 </tr>
 </table>
-
 </div>
-
 <div align="center">
 <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
 💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
-  
 </div>
 
 
@@ -413,7 +401,7 @@ CI/CD pipelines & deployment automation
 
 </div>
 
-
+---
 
 <!-- ===================================================================================== -->
 <!-- EDUCATION & LEARNING SECTION -->
@@ -423,48 +411,36 @@ CI/CD pipelines & deployment automation
 
 ## 🎓 Education & Continuous Learning
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-
 </div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Current Education:**
-
-- **Master of Computer Applications (MCA)**
-- Sikkim Manipal University
-- 2025 - 2027
-- Focus: Advanced Software Development & System Architecture
-
-</td>
-<td width="50%" valign="top">
-
-**Completed Education:**
-
-- **Diploma in MERN Full Stack**
-- DUCAT | 2024 - 2025
-- Expertise: React.js, Redux, Node.js, MongoDB, Express.js
-
-<br>
-
-- **B.Com in Marketing & Finance**
-- IGNOU | 2021 - 2024
-
-</td>
-</tr>
-</table>
-
-<br>
-
-**Current Focus:**
-- Advanced React.js patterns
-- Backend architecture & optimization
-- Scalable system design
-- Production-ready code practices
-
-
+```javascript
+const education = {
+  current: {
+    degree: "Master of Computer Applications (MCA)",
+    institution: "Sikkim Manipal University",
+    duration: "2025 - 2027",
+    focus: "Advanced Software Development & System Architecture"
+  },
+  completed: [
+    {
+      program: "Diploma in MERN Full Stack",
+      institution: "DUCAT",
+      year: "2024 - 2025",
+      expertise: ["React.js", "Redux", "Node.js", "MongoDB", "Express.js"]
+    },
+    {
+      degree: "B.Com in Marketing & Finance",
+      institution: "IGNOU",
+      year: "2021 - 2024"
+    }
+  ],
+  currentFocus: [
+    "Advanced React.js patterns",
+    "Backend architecture & optimization",
+    "Scalable system design",
+    "Production-ready code practices"
+  ]
+}
+```
 
 <!-- ===================================================================================== -->
 <!-- CONTACT & COLLABORATION SECTION -->
@@ -474,46 +450,22 @@ CI/CD pipelines & deployment automation
 
 ## 🤝 Let's Build Something Amazing Together
 
-
-### 💡 Open To
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
-</div>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Collaboration:**
-- Full-time opportunities
-- Freelance projects
-- Open-source contributions
-
-</td>
-<td width="34%" valign="top">
-
-**Interests:**
-- MERN stack development
-- System architecture
-- Performance optimization
-
-</td>
-<td width="33%" valign="top">
-
-**Availability:**
-- Ready to discuss innovative ideas and impactful solutions
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+### 💡 Open To
+```yaml
+Collaboration: Full-time opportunities, freelance projects, open-source contributions
+Interests: MERN stack development, system architecture, performance optimization
+Availability: Ready to discuss innovative ideas and impactful solutions
+```
 
 <i>✨ Passionate about crafting elegant solutions to complex problems</i>
 
 </div>
+
+---
+
 <!-- ===================================================================================== -->
 <!-- FOOTER WITH WAVE -->
 <!-- ===================================================================================== -->
