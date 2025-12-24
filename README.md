@@ -15,16 +15,16 @@
 <!-- Social Badges with Hover Effects -->
 <p align="center">
   <a href="https://linkedin.com/in/manav-jain-b950a9264">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://manavjain-portfolio-2025.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Portfolio"/>
   </a>
   <a href="mailto:manav7421@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
   <a href="https://github.com/manavjain2003">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub"/>
   </a>
 </p>
 
