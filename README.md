@@ -452,19 +452,6 @@ const education = {
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
-### 📫 Reach Out
-
-<p>
-  <a href="https://linkedin.com/in/manav-jain-b950a9264">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:manav7421@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://manavjain-portfolio-2025.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-00C7B7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
 
 ### 💡 Open To
 ```yaml
