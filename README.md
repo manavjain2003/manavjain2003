@@ -35,14 +35,12 @@
 
 <div align="center">
 
-<div align="center">
-
 ### 💼 About Me
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <table>
 <tr>
-<td width="60%" valign="middle" align="center">
+<td width="60%" valign="middle" align="left">
 
 <div style="padding: 30px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(255, 107, 107, 0.1) 100%); border-radius: 15px; border: 2px solid rgba(0, 217, 255, 0.3);">
 
@@ -50,13 +48,25 @@
 
 **Results-driven Full Stack Developer** with demonstrated expertise in architecting and deploying **scalable, production-grade applications** using the **MERN technology stack**.
 
-🎯 **Current Focus:** Pursuing **Master of Computer Applications (MCA)** at Sikkim Manipal University while maintaining active involvement in enterprise-level software development projects.
+**🎯 Current Focus:**
+- Pursuing **Master of Computer Applications (MCA)** at Sikkim Manipal University
+- Maintaining active involvement in enterprise-level software development projects
+- Contributing to production systems and real-world business solutions
 
-💡 **Development Approach:** Committed to writing maintainable, efficient code that adheres to industry best practices and delivers measurable business value.
+**💡 Development Approach:**
+- Committed to writing maintainable, efficient code
+- Adherence to industry best practices and design patterns
+- Delivering measurable business value through technology solutions
 
-📈 **Proven Impact:** Track record of improving operational efficiency through technology solutions, including 30% reduction in approval workflows and 10% increase in conversion tracking metrics.
+**📈 Proven Impact:**
+- 30% reduction in approval workflows through automation
+- 10% increase in conversion tracking metrics via dashboard development
+- 50% faster onboarding processes with streamlined administrative controls
 
-🔧 **Technical Philosophy:** Focused on continuous learning, performance optimization, and building robust systems that scale effectively with business growth.
+**🔧 Technical Philosophy:**
+- Focused on continuous learning and skill enhancement
+- Performance optimization and clean architecture principles
+- Building robust systems that scale effectively with business growth
 
 </div>
 
