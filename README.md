@@ -238,122 +238,168 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
 
 
 <!-- ===================================================================================== -->
-<!-- FEATURED PROJECTS SECTION -->
+<!-- FEATURED PROJECTS SECTION (IMPROVED LAYOUT & ICONS) -->
 <!-- ===================================================================================== -->
 <div align="center">
   
 ### 🚀 Featured Projects
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0; width: 90%;">
 
-<table>
+<!-- Use a two-column table for layout; each card has consistent padding & alignment -->
+<table width="90%" cellpadding="12" cellspacing="8">
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">🛍️ E-Commerce Application</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-<p align="center">
-  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-Full-featured responsive e-commerce platform with modern architecture
-✨ Highlights:
+  <!-- LEFT: E-Commerce -->
+  <td width="50%" valign="top">
+    <div style="border:1px solid rgba(255,255,255,0.06); padding:18px; border-radius:6px; background:transparent;">
+      <h3 align="center">🛍️ E-Commerce Application</h3>
 
-🔄 Context API state management
-🧩 Modular components
-🛒 Seamless cart & checkout
-🧭 React Router navigation
-📱 Fully responsive design
-⚡ Optimized performance
+      <div align="center" style="margin:8px 0 12px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="E-Commerce gif">
+      </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">✈️ Visa Consultancy Website</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100">
-</div>
-<p align="center">
-  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+      <p align="center" style="margin:6px 0;">
+        <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="view code"/></a>
+        <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo"/></a>
+      </p>
 
-  Professional consultancy platform with modern UI/UX
-✨ Highlights:
+      <div style="text-align:left; padding:0 8px;">
+        Full-featured responsive e-commerce platform with modern architecture
+        ✨ Highlights:
 
-📐 Responsive Flexbox & Grid
-🔄 Dynamic data fetching
-📝 Reusable form components
-🎨 Modern, intuitive interface
-⚡ Optimized performance
+        <ul style="margin:8px 0 12px; padding-left:20px;">
+          <li>🔄 Context API state management</li>
+          <li>🧩 Modular components</li>
+          <li>🛒 Seamless cart & checkout</li>
+          <li>🧭 React Router navigation</li>
+          <li>📱 Fully responsive design</li>
+          <li>⚡ Optimized performance</li>
+        </ul>
+      </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-</td>
-</tr>
-</table>
-</div>
-<br>
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">🌤️ Weather Application</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-</div>
-<p align="center">
-  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-Real-time weather tracking application
-✨ Highlights:
+      <p align="center" style="margin-top:6px;">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      </p>
+    </div>
+  </td>
 
-🌍 OpenWeather API integration
-📊 Dynamic data rendering
-📱 Responsive across devices
-⚡ Real-time updates
-🔍 City search functionality
+  <!-- RIGHT: Visa Consultancy (icons swapped to React + Vite + Tailwind) -->
+  <td width="50%" valign="top">
+    <div style="border:1px solid rgba(255,255,255,0.06); padding:18px; border-radius:6px; background:transparent;">
+      <h3 align="center">✈️ Visa Consultancy Website</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🚧 More Projects Coming Soon</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
-</div>
-🔨 Currently working on:
-🔮 Advanced React Patterns
-Compound components & render props
-🏗️ Scalable System Architecture
-Microservices & clean architecture
-⚡ Performance Optimization
-Code splitting, lazy loading & caching
-🚀 Production-Ready Solutions
-CI/CD pipelines & deployment automation
-<p align="center"><b>⭐ Stay tuned for updates!</b></p>
-</td>
+      <div align="center" style="margin:8px 0 12px;">
+        <!-- Replaced fire image with combined React (animated), Vite, Tailwind icons -->
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="72" alt="React gif" style="vertical-align:middle; margin-right:8px;">
+        <img src="https://raw.githubusercontent.com/vitejs/website/main/src/assets/logo.svg" width="72" alt="Vite logo" style="vertical-align:middle; margin-right:8px;">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="72" alt="Tailwind logo" style="vertical-align:middle;">
+      </div>
+
+      <p align="center" style="margin:6px 0;">
+        <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="view code"/></a>
+        <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo"/></a>
+      </p>
+
+      <div style="text-align:left; padding:0 8px;">
+        Professional consultancy platform with modern UI/UX
+        ✨ Highlights:
+
+        <ul style="margin:8px 0 12px; padding-left:20px;">
+          <li>📐 Responsive Flexbox & Grid</li>
+          <li>🔄 Dynamic data fetching</li>
+          <li>📝 Reusable form components</li>
+          <li>🎨 Modern, intuitive interface</li>
+          <li>⚡ Optimized performance</li>
+        </ul>
+      </div>
+
+      <p align="center" style="margin-top:6px;">
+        <!-- Swapped tech badges: React, Vite, Tailwind -->
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      </p>
+    </div>
+  </td>
 </tr>
 </table>
 </div>
 
-<div align="center">
 <br>
-<br><br>
-💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
+
+<div align="center" width="90%">
+  <table width="90%" cellpadding="12" cellspacing="8">
+  <tr>
+    <!-- LEFT: Weather (kept the same text but aligned consistently) -->
+    <td width="50%" valign="top">
+      <div style="border:1px solid rgba(255,255,255,0.06); padding:18px; border-radius:6px;">
+        <h3 align="center">🌤️ Weather Application</h3>
+
+        <div align="center" style="margin:8px 0 12px;">
+          <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" alt="Weather gif">
+        </div>
+
+        <p align="center" style="margin:6px 0;">
+          <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="view code"/></a>
+          <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo"/></a>
+        </p>
+
+        <div style="text-align:left; padding:0 8px;">
+          Real-time weather tracking application
+          ✨ Highlights:
+
+          <ul style="margin:8px 0 12px; padding-left:20px;">
+            <li>🌍 OpenWeather API integration</li>
+            <li>📊 Dynamic data rendering</li>
+            <li>📱 Responsive across devices</li>
+            <li>⚡ Real-time updates</li>
+            <li>🔍 City search functionality</li>
+          </ul>
+        </div>
+
+        <p align="center" style="margin-top:6px;">
+          <!-- HTML/CSS/JS in the requested order -->
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        </p>
+      </div>
+    </td>
+
+    <!-- RIGHT: More Projects -->
+    <td width="50%" valign="top">
+      <div style="border:1px solid rgba(255,255,255,0.06); padding:18px; border-radius:6px;">
+        <h3 align="center">🚧 More Projects Coming Soon</h3>
+
+        <div align="center" style="margin:8px 0 12px;">
+          <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200" alt="coming soon">
+        </div>
+
+        <div style="text-align:left; padding:0 8px;">
+          🔨 Currently working on:
+          🔮 Advanced React Patterns
+          Compound components & render props
+          🏗️ Scalable System Architecture
+          Microservices & clean architecture
+          ⚡ Performance Optimization
+          Code splitting, lazy loading & caching
+          🚀 Production-Ready Solutions
+          CI/CD pipelines & deployment automation
+        </div>
+
+        <p align="center" style="margin-top:12px;"><b>⭐ Stay tuned for updates!</b></p>
+      </div>
+    </td>
+  </tr>
+  </table>
 </div>
+
+<div align="center" style="margin-top:18px;">
+  💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
+</div>
+
 <!-- ===================================================================================== -->
 <!-- GITHUB STATISTICS SECTION -->
 <!-- ===================================================================================== -->
