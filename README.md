@@ -412,7 +412,9 @@ CI/CD pipelines & deployment automation
 <!-- EDUCATION & LEARNING SECTION -->
 <!-- ===================================================================================== -->
 
-<h2 align="center">🎓 Education & Continuous Learning</h2>
+<div align="center">
+
+### 🎓 Education
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF, #FF6B6B); margin: 30px 0;">
 
@@ -458,6 +460,7 @@ CI/CD pipelines & deployment automation
 </tr>
 </table>
 
+</div>
 
 <!-- ===================================================================================== -->
 <!-- CONTACT & COLLABORATION SECTION -->
