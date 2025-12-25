@@ -396,8 +396,9 @@ CI/CD pipelines & deployment automation
 
 <div align="center">
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manavjain2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
@@ -406,7 +407,6 @@ CI/CD pipelines & deployment automation
 
 </div>
 
----
 
 <!-- ===================================================================================== -->
 <!-- EDUCATION & LEARNING SECTION -->
