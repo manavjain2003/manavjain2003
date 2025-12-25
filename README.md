@@ -35,6 +35,8 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 💼 About Me
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
@@ -44,15 +46,17 @@
 
 <div style="padding: 30px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(255, 107, 107, 0.1) 100%); border-radius: 15px; border: 2px solid rgba(0, 217, 255, 0.3);">
 
-### 🚀 Transforming Coffee into Code
+### 🚀 Professional Overview
 
-**Results-driven Full Stack Developer** specializing in the **MERN ecosystem**, with a proven track record of architecting **scalable, production-grade applications** that solve real-world problems.
+**Results-driven Full Stack Developer** with demonstrated expertise in architecting and deploying **scalable, production-grade applications** using the **MERN technology stack**.
 
-💡 **Philosophy:** *"Clean code isn't written by following a set of rules. Clean code is written by developers who care."*
+🎯 **Current Focus:** Pursuing **Master of Computer Applications (MCA)** at Sikkim Manipal University while maintaining active involvement in enterprise-level software development projects.
 
-🎯 **Currently:** Pursuing **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively shipping enterprise-level solutions and contributing to cutting-edge web technologies.
+💡 **Development Approach:** Committed to writing maintainable, efficient code that adheres to industry best practices and delivers measurable business value.
 
-📈 **Impact-Driven Development:** From reducing approval times by 30% to boosting conversion tracking by 10%, I believe in measurable results and continuous improvement.
+📈 **Proven Impact:** Track record of improving operational efficiency through technology solutions, including 30% reduction in approval workflows and 10% increase in conversion tracking metrics.
+
+🔧 **Technical Philosophy:** Focused on continuous learning, performance optimization, and building robust systems that scale effectively with business growth.
 
 </div>
 
@@ -64,6 +68,7 @@
 </td>
 </tr>
 </table>
+
 ### 🎯 Professional Highlights
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
