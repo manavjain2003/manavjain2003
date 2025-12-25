@@ -1,16 +1,6 @@
 <!-- HEADER SECTION WITH ANIMATED GRADIENT BANNER -->
 
-```text
-m65JaI*{{{*{s!s?ezuwn]{Iez*\)\ivxllv<\|))v{I!tI{l%xc*uTJTzuzCL7nTnn!%rlv%lr?LpS6qVS5JJCu{[%x75fJCwn7LzhyuTnJw523C5mpF236
-Ed57Islcrrl%)>ivv%clccrvv)|/)>v>\)+//+|>))))lte?xi)is[e7!tjeL77uuL[x}ot{{LCJ2gVVhhm5e!I?%r?zgpCJf#uy55FwJjzJF5C#wp65mq3F
-p5#[}{s*}*l%<)cxvv%xxls!r\)\)vii)\\>i>))>>))%{Lai))|="i{?a77!o7[]*}[wp6uj6q62phdVVp2Tjo1tTTnLwC3fJCqyqpzyCuuCwyF6FC3p5wq
-5mq3a}*}***l>vs*l%v%xv>>\)%))vi)%i>>>ixc%%%xIeyC%|\|")>i\\)v>\<>v{uwqm3wL56mF55pqqmynnnz2h2p2CTyJTyFjTf7nJCwf565uu6g5Shq
-VhhhCt]{s}[l>v!#1rlcx\)<\v)<)%r%v)>>>)%%%xllix*{x%x%xr?1!*c>\/^"i*#FqFp5J2mqm6FyFgFT#Cw#yFF6mwF5wzajyzjnTTnnfyuzCgV5SPdV
-pTLznut}{1erI?jTaI}{)|/\\<<\xjc)<%i%{*}{s1}{v<v%%)vvv}1[[aLot]{)\lapdSmF2w5Ff5Fpq6wyFpyJF232fyFpyzazztjoeTLtezJj5h6qg634
-7settnLzze1IatnTI*?1r|"))||)|[Cu#wy3Jeuw[!rr%%xx)))i)%I?!]]z[eo?*17344VVV62fw52pFFphVgm5F53yw5FmpfnTjeuTLLLuaL#LLnJ6Fyym
-lv?teuyyntt!}1jTzoLCTx)>)>%vil5hgqqVdg3ffolx)x}a[?}%))c*}*]!1?slr*7TTFVVhgm35pqhSmqVdhhgF3532FqSqFC#LuLtu3y#JJTJJf#uzj7p
-I*]Ln7TwTCJ?*nwCTjunL!?eLCSm3Jq4E4VgpFF2wCTT#fq2n1}li>v%xl{{{l<//)[C#aaJfww3555233ywwwywCCJj7owFpF2wy52ypp2ynLeaaj711ooT
-oonCJJfwwfw[rnJ#TJwJe[LTLLLoajnnuj7oaaeotazzj7e]?**{lccclrs![?II!!]zL]s}]?[wn!{*srlcccxcc1!ccl1CJnuwmm5p5yT7!rcxvxc}jnJF
+```textoonCJJfwwfw[rnJ#TJwJe[LTLLLoajnnuj7oaaeotazzj7e]?**{lccclrs![?II!!]zL]s}]?[wn!{*srlcccxcc1!ccl1CJnuwmm5p5yT7!rcxvxc}jnJF
 fLt?euJwL*s{{*!L#7?!}}**{{ssrssrrrrllllrxclxvlr%)v?}r}{r{?znnjtz#TyJyyn?xc1e?*cxxxxxxxxx%*lrcxx!eLunCfLwCuz!lc%i%{eTJn][
 u]!?1TCwn{cxxxixI}xxs*{cllxxxxlllccxxllx%v)><<>)ivx*xxr{*?[11aej1[oaeoee{v)r?r))vivrrc%xxxxlx%vvl{Izeooo1[[*lx?tLL#e?ci{
 a][!!n#JoI}{x%)vcxivs*s*{lxcclllrl%%x%%i)<||||+==+/ic)v%%cl*te1ae[[eo1tet!*rs{rrs{rs{lllcr{rccllll{1lcccxx?arcs{}sr%vx%*
@@ -60,17 +50,7 @@ r))\)\>)iiv%%%%%v%iiiii)iivi)iv)))%%vxv))))))>)vv)\)<|\\*s)|\)\<>>)>)vvvivivviiv
 r>>\\<>iv%%vvv%v%v%%[x))vii))i)>))vvivv))))ix%)>)))>><\\)i<<>))>>>ii)i))v%i)iii%v)vi)ii)vvvvv))ivs!%xvi)ii)>)v))>iiix!ef
 l>\)<)%%%vvvvvivci)ilv))%x>>i))ivi))>ii))v%xsscl%i)>>>>ii><)viii))vv)ivvvvvivvvivvv%vvv)iii)i>>>>ici>>>>)>\\\<)<\)\>)%]y
 l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%iv)v%viviiv)<>)iv)>)>)){I\/|<<>>|))\>))vn
-{vvviilcvvvvii}Ii)))))iv>)vi)v%cx%x%i)v%v)iivxviiv%lssx><>)>)i)\>)v%%iv)v%iiiiiixvvivv%iiv)>))))>>)>>)tj>/|<<>)+/))\\<){
-s>))>>))>)ivvvc%)>>)v)))))v)ivv)%%vvv%r{cl%%v))i%xllsr%)>>)iv)\)>))i)iv%vvls%xviv)v%%icvii)>)<>)))i)<<<<\|)\<<"/))))\\\c
-l\\>>>))>>))>)v))>))vir%vivviiiv%vivcllrrc%i)ivvi)>)vi>)>i)<<<)\))))iiv%vv{!%%vivi)ivv{}vii>>>>ii>))%i><"|)\>\+|))||)\)x
-%\\>i>>)>)<\)>>>>)ii%lxv))xc%v%vivv%%ii%vii)i%trv%%i))>)<v<<>v)<>>)%v)i)ivx)ii))iv)))i%r)))>>)<>><>)))>\/|\\<)/)))|"|\|%
-x\<>>))|<>\\i>\>>>>\>%i)i)%sl%v))%vviviii)vxs**r*r%i)))){s>i%%))>))vxr%%v)i))v%)>))v%i>)>>)>)i\>>\>>\<<\/"\\\"/||)|||\)%
-c\\|<||\))\i><))>\\)>))>v>>xv)))vr%iv%v)viiv%vxlv)i)))<<{r)i%i%%>vxix?rv))i))vii)i))i)>i))))\>\\\)\)<<\)++|))//|"""++|)x
-cvc<\<)|\)>><>>))1Lx>)))))<))>vxlxx%vi>ix%i)))iv))iiv>>%>>>iii)\\<>vlv)>>ivv>))i)v)>)>>)><>\\\)|||<\\\)/^^/||+=""/"+=")%
-x>)v|\\|)>i>)<>"\vx)<<i><)>>)>>iv)xv))%so*xx%i))>iiviiv><>>)i)<\\<))v)>v%v>)lc%)>)>>ix%))><\||||))\)\))|==//"^="/"/""|\%
-x\<\))<)/)><|)<)\>\\<<<\))<\)))>))i>>v]1?Icvv)>vi)>)>>)\\<>)i)\\\<)>)>)vc%vvx%)>>))>>%cll)\)"||||//|))|"^=//"+=""||||)|i
-v\\\\)|\//<>|"\\\))\<>\\\)\)\>>))>)>)i)>%ci))))>>>>))<\\\)>>>>>))\<>i)>><>)v><<<>>>><\\<)))|||""/"|//|/+;+//+;^/+/|/|))i
-l)v>\>\>)\<v<|>i))i)))>))>)>>v%ivi%x%%%%%%v%cxx))viiv))))<iiiii)>>)iviivvvv)))vv>\<>)vvi><<<\)\<\)\<\\))+|)))/|\))))<i<x 
+{vvviilcvvvvii}Ii)))))iv>)vi)v%cx%x%i)v%v)iivxviiv%lssx><>)>)i)\>)v%%iv)v%iiiiiixvvivv%iiv)>))))>>)>>)tj>/|<<>)+/))\\<){ 
 
 ```
 
