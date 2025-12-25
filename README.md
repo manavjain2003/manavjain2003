@@ -292,11 +292,11 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
 <td width="50%" valign="top">
   <h4 align="center">✈️ Visa Consultancy Website</h4>
 
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-    <img src="https://raw.githubusercontent.com/vitejs/website/main/src/assets/logo.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60">
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
 
   <p align="center">
     <a href="https://github.com/manavjain2003">
