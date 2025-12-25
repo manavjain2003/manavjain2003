@@ -257,15 +257,20 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-Full-featured responsive e-commerce platform with modern architecture
-✨ Highlights:
 
-🔄 Context API state management
-🧩 Modular components
-🛒 Seamless cart & checkout
-🧭 React Router navigation
-📱 Fully responsive design
+<p align="left">
+<b>Full-featured responsive e-commerce platform with modern architecture</b>
+</p>
+
+<p align="left">
+<b>✨ Highlights:</b><br><br>
+🔄 Context API state management<br>
+🧩 Modular components<br>
+🛒 Seamless cart & checkout<br>
+🧭 React Router navigation<br>
+📱 Fully responsive design<br>
 ⚡ Optimized performance
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -273,35 +278,43 @@ Full-featured responsive e-commerce platform with modern architecture
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 </td>
+
 <td width="50%" valign="top">
 <h3 align="center">✈️ Visa Consultancy Website</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 <p align="center">
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-  Professional consultancy platform with modern UI/UX
-✨ Highlights:
+<p align="left">
+<b>Professional consultancy platform with modern UI/UX</b>
+</p>
 
-📐 Responsive Flexbox & Grid
-🔄 Dynamic data fetching
-📝 Reusable form components
-🎨 Modern, intuitive interface
+<p align="left">
+<b>✨ Highlights:</b><br><br>
+📐 Responsive Flexbox & Grid<br>
+🔄 Dynamic data fetching<br>
+📝 Reusable form components<br>
+🎨 Modern, intuitive interface<br>
 ⚡ Optimized performance
+</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 </td>
 </tr>
 </table>
+
 </div>
+
 <br>
+
 <div align="center">
 <table>
 <tr>
@@ -314,14 +327,19 @@ Full-featured responsive e-commerce platform with modern architecture
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-Real-time weather tracking application
-✨ Highlights:
 
-🌍 OpenWeather API integration
-📊 Dynamic data rendering
-📱 Responsive across devices
-⚡ Real-time updates
+<p align="left">
+<b>Real-time weather tracking application</b>
+</p>
+
+<p align="left">
+<b>✨ Highlights:</b><br><br>
+🌍 OpenWeather API integration<br>
+📊 Dynamic data rendering<br>
+📱 Responsive across devices<br>
+⚡ Real-time updates<br>
 🔍 City search functionality
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -329,20 +347,25 @@ Real-time weather tracking application
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 </td>
+
 <td width="50%" valign="top">
 <h3 align="center">🚧 More Projects Coming Soon</h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
 </div>
-🔨 Currently working on:
-🔮 Advanced React Patterns
-Compound components & render props
-🏗️ Scalable System Architecture
-Microservices & clean architecture
-⚡ Performance Optimization
-Code splitting, lazy loading & caching
-🚀 Production-Ready Solutions
+
+<p align="left">
+<b>🔨 Currently working on:</b><br><br>
+🔮 <b>Advanced React Patterns</b><br>
+Compound components & render props<br><br>
+🏗️ <b>Scalable System Architecture</b><br>
+Microservices & clean architecture<br><br>
+⚡ <b>Performance Optimization</b><br>
+Code splitting, lazy loading & caching<br><br>
+🚀 <b>Production-Ready Solutions</b><br>
 CI/CD pipelines & deployment automation
+</p>
+
 <p align="center"><b>⭐ Stay tuned for updates!</b></p>
 </td>
 </tr>
@@ -354,7 +377,6 @@ CI/CD pipelines & deployment automation
 <br><br>
 💡 All projects feature clean code, comprehensive documentation, and production-ready architecture
 </div>
-
 
 <!-- ===================================================================================== -->
 <!-- GITHUB STATISTICS SECTION -->
