@@ -33,12 +33,14 @@
   <img src="https://img.shields.io/github/stars/manavjain2003?label=Stars&style=flat-square&color=yellow" alt="stars" />
 </p>
 
+<div align="center">
+
 ### 💼 About Me
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="middle" align="center">
 
 **Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**.
 
