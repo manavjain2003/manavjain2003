@@ -276,10 +276,10 @@
 <!-- ===================================================================================== -->
 <div align="center">
   
-## 🚀 Featured Projects
+### 🚀 Featured Projects
+
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-</div>
-<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -316,7 +316,8 @@ Full-featured responsive e-commerce platform with modern architecture
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/manavjain2003"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-Professional consultancy platform with modern UI/UX
+
+  Professional consultancy platform with modern UI/UX
 ✨ Highlights:
 
 📐 Responsive Flexbox & Grid
@@ -381,6 +382,7 @@ CI/CD pipelines & deployment automation
 </tr>
 </table>
 </div>
+
 <div align="center">
 <br>
 <br><br>
