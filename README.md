@@ -227,11 +227,16 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
 
 </td>
 </tr>
-</table>
+<tr>
+<td align="center" colspan="2">
 
 **Additional Technologies**
 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/Bunny_CDN-FF6C37?style=for-the-badge&logo=bunny&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
