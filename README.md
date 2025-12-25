@@ -372,10 +372,12 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
   <h4 align="center">🚧 More Projects Coming Soon</h4>
 
   <p align="center">
-   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
-    <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="120">
-<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="120">
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="220"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284144-3f1c1d0b-b2a4-4f2d-9d79-9e2efcdd5a4b.gif" width="220"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284068-39a02d80-30d2-4b3d-bc6d-9b79a0b2c4c7.gif" width="220"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284107-2b9bb5d4-5d27-4b65-b6a7-ecb0a4f90b14.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284086-78a2f6b6-58a4-44e0-bf69-5fbc6a2e04e6.gif" width="240"/>
+
 
   </p>
 
