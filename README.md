@@ -202,7 +202,7 @@
 <!-- PROFESSIONAL EXPERIENCE SECTION -->
 <div align="center">
   
-## 💼 Professional Journey
+### 💼 Professional Journey
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
