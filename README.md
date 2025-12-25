@@ -293,9 +293,7 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
   <h4 align="center">✈️ Visa Consultancy Website</h4>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="70">
- <img src="https://user-images.githubusercontent.com/74038190/212257470-9df0d3a1-8c6b-4d3c-9c90-9fd08e5a6b6a.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </p>
 
   <p align="center">
