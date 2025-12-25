@@ -372,10 +372,7 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
   <h4 align="center">🚧 More Projects Coming Soon</h4>
 
   <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="220"/>
-
-
-
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="120">
   </p>
 
   <p align="left">
