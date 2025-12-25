@@ -159,23 +159,6 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
 </tr>
 </table>
 
-### ⚡ Key Achievements
-
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
-<table width="100%">
-<tr>
-<td>
-
-- 🚀 **10% increase** in conversion tracking through comprehensive dashboard development
-- ⏱️ **30% reduction** in leave approval time via automated workflow systems
-- 🎯 **50% faster** onboarding processes through streamlined administrative controls
-- 🔐 Architected **role-based authentication systems** managing multiple user hierarchies
-- ⚙️ Optimized **application performance** through CDN integration and clean architecture
-
-</td>
-</tr>
-</table>
-
 ### 🔥 Core Competencies
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
