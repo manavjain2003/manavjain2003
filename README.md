@@ -190,7 +190,7 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
 <!-- SKILLS SECTION WITH CATEGORIES -->
 <div align="center">
 
-### <span style="font-size: 1.5em;">🛠️ Technology Arsenal</span>
+### <span style="font-size: 5em;">🛠️ Technology Arsenal</span>
 
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 20px 0;">
