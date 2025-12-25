@@ -42,19 +42,28 @@
 <tr>
 <td width="60%" valign="middle" align="center">
 
-**Results-driven Full Stack Developer** with proven expertise in building **scalable, production-grade applications** using the **MERN stack**.
+<div style="padding: 30px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(255, 107, 107, 0.1) 100%); border-radius: 15px; border: 2px solid rgba(0, 217, 255, 0.3);">
 
-Currently advancing technical acumen through **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively contributing to enterprise-level systems.
+### 🚀 Transforming Coffee into Code
+
+**Results-driven Full Stack Developer** specializing in the **MERN ecosystem**, with a proven track record of architecting **scalable, production-grade applications** that solve real-world problems.
+
+💡 **Philosophy:** *"Clean code isn't written by following a set of rules. Clean code is written by developers who care."*
+
+🎯 **Currently:** Pursuing **Master of Computer Applications (MCA)** at Sikkim Manipal University while actively shipping enterprise-level solutions and contributing to cutting-edge web technologies.
+
+📈 **Impact-Driven Development:** From reducing approval times by 30% to boosting conversion tracking by 10%, I believe in measurable results and continuous improvement.
+
+</div>
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="middle" align="center">
 
 <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 </td>
 </tr>
 </table>
-
 ### 🎯 Professional Highlights
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
