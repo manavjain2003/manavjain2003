@@ -294,8 +294,8 @@ l>))%vlrxvvvvv)ii)ii))vxxv>>)))c%)iv)))iv%%%xscv)))iv))vv)>)iiv))vvxlx%iiiviv%%i
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/216122070-6d94d7c7-7bb6-4b42-9bb6-2c15cdd7b0d3.gif" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="70">
+ <img src="https://user-images.githubusercontent.com/74038190/212257470-9df0d3a1-8c6b-4d3c-9c90-9fd08e5a6b6a.gif" width="70">
 </p>
 
   <p align="center">
