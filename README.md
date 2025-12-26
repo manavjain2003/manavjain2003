@@ -357,20 +357,25 @@
 
 <div align="center">
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
+
+<br/>
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavjain2003&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=manavjain2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
