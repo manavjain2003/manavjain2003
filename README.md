@@ -103,31 +103,30 @@
 ### 🔥 Core Competencies
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
+
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center" style="font-size: 6"> Frontend Excellence </h3>
-<ul>
-<li> 🎨 Responsive UI/UX with React.js & Tailwind CSS </li>
-<li> 🔄 State management using Redux & Context API  </li>
-<li> 📱 Cross-platform development with React Native  </li>
-<li> ⚡ Performance optimization & code splitting  </li>                                            
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center" style="font-size: 6"> Backend Mastery </h3>
-<ul>
-<li> 🛠️ RESTful API design & implementation </li>
-<li> 🔐 Authentication & RBAC systems </li>
-<li> 🗄️ Database architecture (MongoDB, MySQL) </li>
-<li> 🚀 Node.js & Express.js server development </li>
-<ul>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 style="text-align: center; font-size: 1.2rem;">Frontend Excellence</h3>
+      <ul>
+        <li>🎨 Responsive UI/UX with React.js & Tailwind CSS</li>
+        <li>🔄 State management using Redux & Context API</li>
+        <li>📱 Cross-platform development with React Native</li>
+        <li>⚡ Performance optimization & code splitting</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 style="text-align: center; font-size: 1.2rem;">Backend Mastery</h3>
+      <ul>
+        <li>🛠️ RESTful API design & implementation</li>
+        <li>🔐 Authentication & RBAC systems</li>
+        <li>🗄️ Database architecture (MongoDB, MySQL)</li>
+        <li>🚀 Node.js & Express.js server development</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
 
 </div>
 
