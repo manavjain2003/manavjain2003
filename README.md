@@ -106,8 +106,8 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 style="text-align: center; font-size: 1.2rem;">Frontend Excellence</h3>
+    <td width="60%" valign="top">
+      <h3 style="align: center; font-size: 1.2rem;">Frontend Excellence</h3>
       <ul>
         <li>🎨 Responsive UI/UX with React.js & Tailwind CSS</li>
         <li>🔄 State management using Redux & Context API</li>
@@ -115,8 +115,8 @@
         <li>⚡ Performance optimization & code splitting</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 style="text-align: center; font-size: 1.2rem;">Backend Mastery</h3>
+    <td width="40%" valign="top">
+      <h3 style="align: center; font-size: 1.2rem;">Backend Mastery</h3>
       <ul>
         <li>🛠️ RESTful API design & implementation</li>
         <li>🔐 Authentication & RBAC systems</li>
