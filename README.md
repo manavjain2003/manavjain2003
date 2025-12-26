@@ -104,6 +104,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
+<div width="100%" style="background-color:#00D9FF">
 <table width="100%">
   <tr>
     <td width="52%" valign="top">
@@ -126,7 +127,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 </div>
 
