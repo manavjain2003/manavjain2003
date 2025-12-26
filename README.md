@@ -107,21 +107,24 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> Frontend Excellence </h3>
-- 🎨 Responsive UI/UX with React.js & Tailwind CSS
-- 🔄 State management using Redux & Context API
-- 📱 Cross-platform development with React Native
-- ⚡ Performance optimization & code splitting
+<h3 align="center" style="font-size: 6"> Frontend Excellence </h3>
+<ul>
+<li> 🎨 Responsive UI/UX with React.js & Tailwind CSS </li>
+<li> 🔄 State management using Redux & Context API  </li>
+<li> 📱 Cross-platform development with React Native  </li>
+<li> ⚡ Performance optimization & code splitting  </li>                                            
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
 **Backend Mastery**
-- 🛠️ RESTful API design & implementation
-- 🔐 Authentication & RBAC systems
-- 🗄️ Database architecture (MongoDB, MySQL)
-- 🚀 Node.js & Express.js server development
-
+<ul>
+<li> 🛠️ RESTful API design & implementation </li>
+<li> 🔐 Authentication & RBAC systems </li>
+<li> 🗄️ Database architecture (MongoDB, MySQL) </li>
+<li> 🚀 Node.js & Express.js server development </li>
+<ul>
 </td>
 </tr>
 </table>
