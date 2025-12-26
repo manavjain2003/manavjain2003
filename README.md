@@ -375,86 +375,131 @@
 
 
 <!-- ===================================================================================== -->
-<!-- EDUCATION SECTION – AESTHETIC VERSION -->
+<!-- EDUCATION SECTION – PREMIUM AESTHETIC VERSION -->
 <!-- ===================================================================================== -->
 
 <div align="center">
 
-<h2>🎓 Education</h2>
+## 🎓 Education Journey
 
-<div style="width:85%; height:2px; background: linear-gradient(90deg, #00D9FF, #FF6B6B); margin: 20px auto 40px;"></div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<table width="95%" cellpadding="0" cellspacing="0">
+</div>
+
+<br>
+
+<table align="center" width="90%">
 <tr>
+<td width="50%" valign="top">
 
-<!-- ===================== CURRENT EDUCATION CARD ===================== -->
-<td width="50%" valign="top" style="padding: 15px;">
+### 🎯 Current Education
 
-<div style="
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 14px;
-  padding: 25px;
-  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
-">
+<img align="right" src="https://img.shields.io/badge/In_Progress-00D9FF?style=for-the-badge&logo=progress&logoColor=white" />
 
-<h3 style="margin-top:0;">🎯 Current Education</h3>
+<br>
 
-<h4 style="margin-bottom:5px;">Master of Computer Applications (MCA)</h4>
-<p style="margin:0;">
-📍 <b>Sikkim Manipal University</b><br>
-📅 <i>2025 – 2027</i>
-</p>
+#### 🎓 Master of Computer Applications (MCA)
 
-<div style="margin-top:20px;">
-<b>Focus Areas</b>
-<ul>
-  <li>Advanced Software Development</li>
-  <li>System Architecture & Design Patterns</li>
-  <li>Backend Optimization</li>
-  <li>Scalable Application Design</li>
-</ul>
-</div>
+<table>
+<tr><td><b>🏛️ Institution</b></td><td>Sikkim Manipal University</td></tr>
+<tr><td><b>📅 Duration</b></td><td>2025 – 2027</td></tr>
+<tr><td><b>📊 Status</b></td><td>Currently Pursuing</td></tr>
+</table>
 
-</div>
+<details>
+<summary><b>📚 Focus Areas</b></summary>
+<br>
+
+- 🔧 **Advanced Software Development**
+- 🏗️ **System Architecture & Design Patterns**
+- ⚡ **Backend Optimization**
+- 📈 **Scalable Application Design**
+
+</details>
+
+---
+
 </td>
+<td width="50%" valign="top">
 
-<!-- ===================== COMPLETED EDUCATION CARD ===================== -->
-<td width="50%" valign="top" style="padding: 15px;">
+### ✅ Completed Education
 
-<div style="
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 14px;
-  padding: 25px;
-  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
-">
+<img align="right" src="https://img.shields.io/badge/Completed-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
-<h3 style="margin-top:0;">🎓 Completed Education</h3>
+<br>
 
-<h4 style="margin-bottom:5px;">Diploma in MERN Full Stack</h4>
-<p style="margin:0;">
-📍 <b>DUCAT</b><br>
-📅 <i>2024 – 2025</i>
+#### 💻 Diploma in MERN Full Stack
+
+<table>
+<tr><td><b>🏛️ Institution</b></td><td>DUCAT</td></tr>
+<tr><td><b>📅 Duration</b></td><td>2024 – 2025</td></tr>
+</table>
+
+**Tech Stack Mastered:**
+
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<ul style="margin-top:10px;">
-  <li>React.js & Redux</li>
-  <li>Node.js & Express.js</li>
-  <li>MongoDB</li>
-</ul>
+---
 
-<hr style="border:none; height:1px; background: rgba(255,255,255,0.1); margin: 20px 0;">
+#### 📊 B.Com (Marketing & Finance)
 
-<h4 style="margin-bottom:5px;">B.Com (Marketing & Finance)</h4>
-<p style="margin:0;">
-📍 <b>IGNOU</b><br>
-📅 <i>2021 – 2024</i>
-</p>
+<table>
+<tr><td><b>🏛️ Institution</b></td><td>IGNOU</td></tr>
+<tr><td><b>📅 Duration</b></td><td>2021 – 2024</td></tr>
+</table>
 
-</div>
 </td>
-
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### 📈 Academic Timeline
+
+<table align="center" width="80%">
+<tr>
+<th width="25%">Period</th>
+<th width="50%">Degree/Course</th>
+<th width="25%">Status</th>
+</tr>
+<tr>
+<td align="center"><b>2021 – 2024</b></td>
+<td>📊 <b>B.Com (Marketing & Finance)</b><br><i>IGNOU</i></td>
+<td align="center">✅ Completed</td>
+</tr>
+<tr>
+<td align="center"><b>2024 – 2025</b></td>
+<td>💻 <b>MERN Full Stack Diploma</b><br><i>DUCAT</i></td>
+<td align="center">✅ Completed</td>
+</tr>
+<tr>
+<td align="center"><b>2025 – 2027</b></td>
+<td>🎓 <b>Master of Computer Applications</b><br><i>Sikkim Manipal University</i></td>
+<td align="center">⏳ In Progress</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**💡 "Continuous Learning is the Key to Success"**
+
+---
 
 </div>
 
