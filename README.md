@@ -7,11 +7,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=MANAV%20JAIN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Developer&descAlignY=55&descSize=20"/>
 
 <!-- Animated Typing Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=JetBrains+Mono&weight=600&size=28&duration=40&pause=3000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=180&lines=Full+Stack+Developer+%F0%9F%9A%80%0AArchitecting+Scalable+MERN+Applications%0AReact+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+MongoDB+%F0%9F%8D%83+%7C+Express+%E2%9A%A1%0ATransforming+Ideas+into+Production-Ready+Solutions" /> 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=500&pause=3000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=Full+Stack+Developer+%F0%9F%9A%80;Architecting+Scalable+MERN+Applications;React+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+MongoDB+%F0%9F%8D%83+%7C+Express+%E2%9A%A1;Transforming+Ideas+into+Production-Ready+Solutions" alt="Svg"/> 
 </div>
-
-
 
 <!-- Social Badges with Hover Effects -->
 <p align="center">
