@@ -327,16 +327,16 @@
   </p>
 
   <p align="left">
-    🔨 Currently working on:<br>
-    🔮 Advanced React Patterns<br>
-    Compound components & render props<br>
-    🏗️ Scalable System Architecture<br>
-    Microservices & clean architecture<br>
-    ⚡ Performance Optimization<br>
-    Code splitting, lazy loading & caching<br>
-    🚀 Production-Ready Solutions<br>
-    CI/CD pipelines & deployment automation
-  </p>
+    <ul>
+   <strong> 🔨 Currently working on: </strong> 
+    <li>🔮 Advanced React Patterns </li>
+    <li> Compound components & render props </li>
+    <li>🏗️ Scalable System Architecture </li>
+   <li> Microservices & clean architecture </li>
+   <li> ⚡ Performance Optimization </li> 
+    <li>Code splitting, lazy loading & caching </li>
+    </ul>
+    </p>
 
   <p align="center"><b>⭐ Stay tuned for updates!</b></p>
 </td>
