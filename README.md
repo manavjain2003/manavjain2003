@@ -104,9 +104,9 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF 0%, #FF6B6B 100%); margin: 40px 0;">
 
-<table width="105%">
+<table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="52%" valign="top">
       <h3 style="align: center; font-size: 1.2rem;">Frontend Excellence</h3>
       <ul>
         <li>🎨 Responsive UI/UX with React.js & Tailwind CSS</li>
@@ -115,7 +115,7 @@
         <li>⚡ Performance optimization & code splitting</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3 style="align: center; font-size: 1.2rem;">Backend Mastery</h3>
       <ul>
         <li>🛠️ RESTful API design & implementation</li>
