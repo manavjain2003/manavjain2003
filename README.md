@@ -381,35 +381,6 @@
 
 # 🎓 Educational Odyssey
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<br><br>
-
-<!-- Current Education Highlight Banner -->
-<div align="center">
-
-### ⚡ Currently Pursuing
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-<img src="https://img.shields.io/badge/🎯_MASTER_OF_COMPUTER_APPLICATIONS-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Sikkim_Manipal_University-00D9FF?style=flat&logo=GoogleScholar&logoColor=white" />
-<img src="https://img.shields.io/badge/2025_–_2027-FFD700?style=flat&logo=calendar&logoColor=black" />
-<img src="https://img.shields.io/badge/Status-In_Progress-4CAF50?style=flat&logo=statuspal&logoColor=white" />
-
-<br><br>
-
-<details>
-<summary>🎯 <b>Specialization Focus</b></summary>
-
-<br>
 
 <table align="center" width="90%">
 <tr>
