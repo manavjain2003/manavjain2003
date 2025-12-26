@@ -554,49 +554,6 @@ Cloud & DevOps
 
 <br><br>
 
-<!-- Visual Progress Timeline -->
-<div align="center">
-
-### 📈 Progress Tracker
-
-<table align="center" width="80%">
-<tr>
-<td align="center">
-
-**Foundation**  
-📊 Business Education  
-```
-████████████████████ 100%
-```
-<img src="https://img.shields.io/badge/B.Com-Completed-4CAF50?style=flat-square" />
-
-</td>
-<td align="center">
-
-**Technical Skills**  
-💻 Full Stack Development  
-```
-████████████████████ 100%
-```
-<img src="https://img.shields.io/badge/MERN-Completed-4CAF50?style=flat-square" />
-
-</td>
-<td align="center">
-
-**Advanced Mastery**  
-🎓 Computer Science  
-```
-████████░░░░░░░░░░░░ 40%
-```
-<img src="https://img.shields.io/badge/MCA-In_Progress-FFD700?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
 
 <!-- Stats Section -->
 <div align="center">
