@@ -8,7 +8,7 @@
 
 <!-- Animated Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=Full+Stack+Developer+%F0%9F%9A%80;Architecting+Scalable+MERN+Applications;React+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+MongoDB+%F0%9F%8D%83+%7C+Express+%E2%9A%A1;Transforming+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=Full+Stack+Developer+%F0%9F%9A%80;Architecting+Scalable+MERN+Applications;React+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+MongoDB+%F0%9F%8D%83+%7C+Express+%E2%9A%A1;Transforming+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
 </div>
 
 <!-- Social Badges with Hover Effects -->
