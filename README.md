@@ -379,7 +379,7 @@
 
 <div align="center">
 
-# 🎓 Educational Odyssey
+# 🎓 Education
 
 <div align="center">
 
