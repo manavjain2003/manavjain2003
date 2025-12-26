@@ -105,7 +105,7 @@
 <table width="100%">
   <tr>
     <td width="52%" valign="top">
-      <h3 style="align: center; font-size: 1.2rem;">Frontend Excellence</h3>
+      <h3 align="center">Frontend Excellence</h3>
       <ul>
         <li>🎨 Responsive UI/UX with React.js & Tailwind CSS</li>
         <li>🔄 State management using Redux & Context API</li>
@@ -114,7 +114,7 @@
       </ul>
     </td>
     <td width="48%" valign="top">
-      <h3 style="align: center; font-size: 1.2rem;">Backend Mastery</h3>
+      <h3 align="center">Backend Mastery</h3>
       <ul>
         <li>🛠️ RESTful API design & implementation</li>
         <li>🔐 Authentication & RBAC systems</li>
