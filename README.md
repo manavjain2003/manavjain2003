@@ -375,58 +375,71 @@
 
 
 <!-- ===================================================================================== -->
-<!-- EDUCATION & LEARNING SECTION -->
+<!-- EDUCATION SECTION -->
 <!-- ===================================================================================== -->
 
 <div align="center">
 
-### 🎓 Education
+## 🎓 Education
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF, #FF6B6B); margin: 30px 0;">
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF, #FF6B6B); margin: 30px 0 40px; width: 80%;">
 
-<table width="100%">
+<table width="90%">
 <tr>
-<td width="50%" valign="top">
 
-### 🎯 Current Education
+<!-- ===================== LEFT CARD ===================== -->
+<td width="50%" valign="top" style="padding: 20px; border-right: 1px solid rgba(255,255,255,0.1);">
 
+<h3 align="center">🎯 Current Education</h3>
+
+<p>
 <b>Master of Computer Applications (MCA)</b><br>
 📍 Sikkim Manipal University<br>
-📅 2025 – 2027
+📅 <i>2025 – 2027</i>
+</p>
 
-<br>
-
-<b>Focus Areas</b>
-- Advanced Software Development  
-- System Architecture  
-- Backend Optimization  
-- Scalable Application Design  
+<p><b>Focus Areas</b></p>
+<ul>
+  <li>Advanced Software Development</li>
+  <li>System Architecture</li>
+  <li>Backend Optimization</li>
+  <li>Scalable Application Design</li>
+</ul>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- ===================== RIGHT CARD ===================== -->
+<td width="50%" valign="top" style="padding: 20px;">
 
-### 🎓 Completed Education
+<h3 align="center">🎓 Completed Education</h3>
 
+<p>
 <b>Diploma in MERN Full Stack</b><br>
 📍 DUCAT<br>
-📅 2024 – 2025
+📅 <i>2024 – 2025</i>
+</p>
 
-- React.js & Redux  
-- Node.js & Express.js  
-- MongoDB  
+<ul>
+  <li>React.js & Redux</li>
+  <li>Node.js & Express.js</li>
+  <li>MongoDB</li>
+</ul>
 
 <br>
 
+<p>
 <b>B.Com (Marketing & Finance)</b><br>
 📍 IGNOU<br>
-📅 2021 – 2024
+📅 <i>2021 – 2024</i>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 </div>
+
 
 <!-- ===================================================================================== -->
 <!-- CONTACT & COLLABORATION SECTION -->
