@@ -631,27 +631,6 @@ Cloud & DevOps
 
 </div>
 
-<br><br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
-### 💭 Philosophy
-
-> *"Learning is not attained by chance, it must be sought for with ardor and diligence."*
-
-<br>
-
-<img src="https://img.shields.io/badge/🎯_Continuous_Learner-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/🚀_Tech_Enthusiast-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-
-<br><br>
-
----
-
-</div>
 
 
 <!-- ===================================================================================== -->
