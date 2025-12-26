@@ -49,7 +49,6 @@
 **Results-driven Full Stack Developer** with demonstrated expertise in architecting and deploying **scalable, production-grade applications** using the **MERN technology stack**.
 
 **🎯 Current Focus:**
-- Pursuing **Master of Computer Applications (MCA)** at Sikkim Manipal University
 - Maintaining active involvement in enterprise-level software development projects
 - Contributing to production systems and real-world business solutions
 
@@ -57,8 +56,6 @@
 - Committed to writing maintainable, efficient code
 - Adherence to industry best practices and design patterns
 - Delivering measurable business value through technology solutions
-
-**🔧 Technical Philosophy:**
 - Focused on continuous learning and skill enhancement
 - Performance optimization and clean architecture principles
 - Building robust systems that scale effectively with business growth
