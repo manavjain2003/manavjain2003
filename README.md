@@ -109,7 +109,7 @@
       <ul>
         <li>🎨 Responsive UI/UX with React.js & Tailwind CSS</li>
         <li>🔄 State management using Redux & Context API</li>
-        <li>📱 Cross-platform development with React Native</li>
+        <li>📱 Mobile apps development with React Native</li>
         <li>⚡ Performance optimization & code splitting</li>
       </ul>
     </td>
