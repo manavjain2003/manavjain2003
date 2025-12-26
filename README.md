@@ -425,7 +425,7 @@
 <!-- CONTACT & COLLABORATION SECTION -->
 <!-- ===================================================================================== -->
 
-<div align="center" style="display:flex; align-items: center; justify-content: center">
+<div align="center">
 
 ### 🤝 Let's Build Something Amazing Together
 
