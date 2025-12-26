@@ -375,70 +375,89 @@
 
 
 <!-- ===================================================================================== -->
-<!-- EDUCATION SECTION -->
+<!-- EDUCATION SECTION – AESTHETIC VERSION -->
 <!-- ===================================================================================== -->
 
 <div align="center">
 
-## 🎓 Education
+<h2>🎓 Education</h2>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00D9FF, #FF6B6B); margin: 30px 0 40px; width: 80%;">
+<div style="width:85%; height:2px; background: linear-gradient(90deg, #00D9FF, #FF6B6B); margin: 20px auto 40px;"></div>
 
-<table width="90%">
+<table width="95%" cellpadding="0" cellspacing="0">
 <tr>
 
-<!-- ===================== LEFT CARD ===================== -->
-<td width="50%" valign="top" style="padding: 20px; border-right: 1px solid rgba(255,255,255,0.1);">
+<!-- ===================== CURRENT EDUCATION CARD ===================== -->
+<td width="50%" valign="top" style="padding: 15px;">
 
-<h3 align="center">🎯 Current Education</h3>
+<div style="
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 14px;
+  padding: 25px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+">
 
-<p>
-<b>Master of Computer Applications (MCA)</b><br>
-📍 Sikkim Manipal University<br>
+<h3 style="margin-top:0;">🎯 Current Education</h3>
+
+<h4 style="margin-bottom:5px;">Master of Computer Applications (MCA)</h4>
+<p style="margin:0;">
+📍 <b>Sikkim Manipal University</b><br>
 📅 <i>2025 – 2027</i>
 </p>
 
-<p><b>Focus Areas</b></p>
+<div style="margin-top:20px;">
+<b>Focus Areas</b>
 <ul>
   <li>Advanced Software Development</li>
-  <li>System Architecture</li>
+  <li>System Architecture & Design Patterns</li>
   <li>Backend Optimization</li>
   <li>Scalable Application Design</li>
 </ul>
+</div>
 
+</div>
 </td>
 
-<!-- ===================== RIGHT CARD ===================== -->
-<td width="50%" valign="top" style="padding: 20px;">
+<!-- ===================== COMPLETED EDUCATION CARD ===================== -->
+<td width="50%" valign="top" style="padding: 15px;">
 
-<h3 align="center">🎓 Completed Education</h3>
+<div style="
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 14px;
+  padding: 25px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+">
 
-<p>
-<b>Diploma in MERN Full Stack</b><br>
-📍 DUCAT<br>
+<h3 style="margin-top:0;">🎓 Completed Education</h3>
+
+<h4 style="margin-bottom:5px;">Diploma in MERN Full Stack</h4>
+<p style="margin:0;">
+📍 <b>DUCAT</b><br>
 📅 <i>2024 – 2025</i>
 </p>
 
-<ul>
+<ul style="margin-top:10px;">
   <li>React.js & Redux</li>
   <li>Node.js & Express.js</li>
   <li>MongoDB</li>
 </ul>
 
-<br>
+<hr style="border:none; height:1px; background: rgba(255,255,255,0.1); margin: 20px 0;">
 
-<p>
-<b>B.Com (Marketing & Finance)</b><br>
-📍 IGNOU<br>
+<h4 style="margin-bottom:5px;">B.Com (Marketing & Finance)</h4>
+<p style="margin:0;">
+📍 <b>IGNOU</b><br>
 📅 <i>2021 – 2024</i>
 </p>
 
+</div>
 </td>
 
 </tr>
 </table>
 
 </div>
+
 
 
 <!-- ===================================================================================== -->
