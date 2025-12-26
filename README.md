@@ -107,7 +107,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**Frontend Excellence**
+<h3 align="center"> Frontend Excellence </h3>
 - 🎨 Responsive UI/UX with React.js & Tailwind CSS
 - 🔄 State management using Redux & Context API
 - 📱 Cross-platform development with React Native
