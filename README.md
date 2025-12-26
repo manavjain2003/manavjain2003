@@ -488,9 +488,6 @@ Cloud & DevOps
 </tr>
 </table>
 
-<br><br>
-
-
 <!-- Stats Section -->
 <div align="center">
 
