@@ -381,41 +381,6 @@
 
 # 🎓 Educational Odyssey
 
-
-<table align="center" width="90%">
-<tr>
-<td width="50%">
-
-#### 🔧 Core Competencies
-• Advanced Software Development  
-• System Architecture & Design  
-• Backend Optimization  
-• Scalable Application Design  
-
-</td>
-<td width="50%">
-
-#### 🚀 Emerging Technologies
-• Cloud Computing  
-• Microservices Architecture  
-• DevOps Practices  
-• AI/ML Integration  
-
-</td>
-</tr>
-</table>
-
-</details>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br><br>
-
-<!-- Education Timeline with Visual Path -->
 <div align="center">
 
 ## 📚 Academic Journey
