@@ -373,86 +373,107 @@
 
 
 
-
 <!-- ===================================================================================== -->
-<!-- EDUCATION SECTION – PREMIUM AESTHETIC VERSION -->
+<!-- EDUCATION SECTION – ULTRA CREATIVE VERSION -->
 <!-- ===================================================================================== -->
 
 <div align="center">
 
-## 🎓 Education Journey
+# 🎓 Educational Odyssey
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
+
+<br><br>
+
+<!-- Current Education Highlight Banner -->
+<div align="center">
+
+### ⚡ Currently Pursuing
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://img.shields.io/badge/🎯_MASTER_OF_COMPUTER_APPLICATIONS-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Sikkim_Manipal_University-00D9FF?style=flat&logo=GoogleScholar&logoColor=white" />
+<img src="https://img.shields.io/badge/2025_–_2027-FFD700?style=flat&logo=calendar&logoColor=black" />
+<img src="https://img.shields.io/badge/Status-In_Progress-4CAF50?style=flat&logo=statuspal&logoColor=white" />
+
+<br><br>
+
+<details>
+<summary>🎯 <b>Specialization Focus</b></summary>
 
 <br>
 
 <table align="center" width="90%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 Current Education
+#### 🔧 Core Competencies
+• Advanced Software Development  
+• System Architecture & Design  
+• Backend Optimization  
+• Scalable Application Design  
 
-<img align="right" src="https://img.shields.io/badge/In_Progress-00D9FF?style=for-the-badge&logo=progress&logoColor=white" />
+</td>
+<td width="50%">
 
-<br>
+#### 🚀 Emerging Technologies
+• Cloud Computing  
+• Microservices Architecture  
+• DevOps Practices  
+• AI/ML Integration  
 
-#### 🎓 Master of Computer Applications (MCA)
-
-<table>
-<tr><td><b>🏛️ Institution</b></td><td>Sikkim Manipal University</td></tr>
-<tr><td><b>📅 Duration</b></td><td>2025 – 2027</td></tr>
-<tr><td><b>📊 Status</b></td><td>Currently Pursuing</td></tr>
+</td>
+</tr>
 </table>
-
-<details>
-<summary><b>📚 Focus Areas</b></summary>
-<br>
-
-- 🔧 **Advanced Software Development**
-- 🏗️ **System Architecture & Design Patterns**
-- ⚡ **Backend Optimization**
-- 📈 **Scalable Application Design**
 
 </details>
 
----
-
 </td>
-<td width="50%" valign="top">
-
-### ✅ Completed Education
-
-<img align="right" src="https://img.shields.io/badge/Completed-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
-<br>
-
-#### 💻 Diploma in MERN Full Stack
-
-<table>
-<tr><td><b>🏛️ Institution</b></td><td>DUCAT</td></tr>
-<tr><td><b>📅 Duration</b></td><td>2024 – 2025</td></tr>
+</tr>
 </table>
 
-**Tech Stack Mastered:**
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+<br><br>
 
----
+<!-- Education Timeline with Visual Path -->
+<div align="center">
 
-#### 📊 B.Com (Marketing & Finance)
+## 📚 Academic Journey
 
-<table>
-<tr><td><b>🏛️ Institution</b></td><td>IGNOU</td></tr>
-<tr><td><b>📅 Duration</b></td><td>2021 – 2024</td></tr>
-</table>
+</div>
+
+<table align="center" width="95%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/2021_–_2024-232323?style=for-the-badge&logo=calendar&logoColor=white" />
+
+### 📊 B.Com
+#### Marketing & Finance
+
+<img src="https://img.shields.io/badge/IGNOU-0077B5?style=for-the-badge&logo=institution&logoColor=white" />
+
+<br><br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**🎯 Key Areas**
+
+Business Strategy  
+Financial Analysis  
+Marketing Management  
+Digital Commerce  
 
 </td>
 </tr>
@@ -460,30 +481,116 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/✅_COMPLETED-4CAF50?style=for-the-badge" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/2024_–_2025-232323?style=for-the-badge&logo=calendar&logoColor=white" />
+
+### 💻 MERN Stack
+#### Full Stack Development
+
+<img src="https://img.shields.io/badge/DUCAT-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+
+<br><br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**🛠️ Tech Stack**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/✅_COMPLETED-4CAF50?style=for-the-badge" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/2025_–_2027-232323?style=for-the-badge&logo=calendar&logoColor=white" />
+
+### 🎓 MCA
+#### Computer Applications
+
+<img src="https://img.shields.io/badge/Sikkim_Manipal-00D9FF?style=for-the-badge&logo=university&logoColor=white" />
+
+<br><br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**🎯 Specialization**
+
+Software Engineering  
+System Architecture  
+Backend Systems  
+Cloud & DevOps  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/⏳_IN_PROGRESS-FFD700?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- Visual Progress Timeline -->
 <div align="center">
 
-### 📈 Academic Timeline
+### 📈 Progress Tracker
 
 <table align="center" width="80%">
 <tr>
-<th width="25%">Period</th>
-<th width="50%">Degree/Course</th>
-<th width="25%">Status</th>
-</tr>
-<tr>
-<td align="center"><b>2021 – 2024</b></td>
-<td>📊 <b>B.Com (Marketing & Finance)</b><br><i>IGNOU</i></td>
-<td align="center">✅ Completed</td>
-</tr>
-<tr>
-<td align="center"><b>2024 – 2025</b></td>
-<td>💻 <b>MERN Full Stack Diploma</b><br><i>DUCAT</i></td>
-<td align="center">✅ Completed</td>
-</tr>
-<tr>
-<td align="center"><b>2025 – 2027</b></td>
-<td>🎓 <b>Master of Computer Applications</b><br><i>Sikkim Manipal University</i></td>
-<td align="center">⏳ In Progress</td>
+<td align="center">
+
+**Foundation**  
+📊 Business Education  
+```
+████████████████████ 100%
+```
+<img src="https://img.shields.io/badge/B.Com-Completed-4CAF50?style=flat-square" />
+
+</td>
+<td align="center">
+
+**Technical Skills**  
+💻 Full Stack Development  
+```
+████████████████████ 100%
+```
+<img src="https://img.shields.io/badge/MERN-Completed-4CAF50?style=flat-square" />
+
+</td>
+<td align="center">
+
+**Advanced Mastery**  
+🎓 Computer Science  
+```
+████████░░░░░░░░░░░░ 40%
+```
+<img src="https://img.shields.io/badge/MCA-In_Progress-FFD700?style=flat-square" />
+
+</td>
 </tr>
 </table>
 
@@ -491,18 +598,60 @@
 
 <br>
 
+<!-- Stats Section -->
 <div align="center">
 
----
+### 📊 Education Stats
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<table align="center">
+<tr>
+<td align="center">
 
-**💡 "Continuous Learning is the Key to Success"**
+<img src="https://img.shields.io/badge/Total_Years-6+-00D9FF?style=for-the-badge&logo=target&logoColor=white" />
+
+**Learning Experience**
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Degrees-3-FF6B6B?style=for-the-badge&logo=award&logoColor=white" />
+
+**Qualifications**
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Skills-20+-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+**Technologies Mastered**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+### 💭 Philosophy
+
+> *"Learning is not attained by chance, it must be sought for with ardor and diligence."*
+
+<br>
+
+<img src="https://img.shields.io/badge/🎯_Continuous_Learner-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/🚀_Tech_Enthusiast-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+
+<br><br>
 
 ---
 
 </div>
-
 
 
 <!-- ===================================================================================== -->
