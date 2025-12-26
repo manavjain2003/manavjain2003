@@ -118,7 +118,7 @@
 </td>
 <td width="50%" valign="top">
 
-**Backend Mastery**
+<h3 align="center" style="font-size: 6"> Backend Mastery </h3>
 <ul>
 <li> 🛠️ RESTful API design & implementation </li>
 <li> 🔐 Authentication & RBAC systems </li>
