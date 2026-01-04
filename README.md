@@ -499,7 +499,7 @@ Cloud & DevOps
 <tr>
 <td align="center">
 
-<img src="https://img.shields.io/badge/Total_Years-6+-00D9FF?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Total_Years-1+-00D9FF?style=for-the-badge&logo=target&logoColor=white" />
 
 **Learning Experience**
 
@@ -513,7 +513,7 @@ Cloud & DevOps
 </td>
 <td align="center">
 
-<img src="https://img.shields.io/badge/Skills-20+-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Skills-10+-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 **Technologies Mastered**
 
