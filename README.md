@@ -219,12 +219,12 @@
   </p>
 
   <ul>
-    <li>🔄 Context API state management</li>
-    <li>🧩 Modular components</li>
-    <li>🛒 Seamless cart & checkout</li>
-    <li>🧭 React Router navigation</li>
-    <li>📱 Fully responsive design</li>
-    <li>⚡ Optimized performance</li>
+    <li> Context API state management</li>
+    <li> Modular components</li>
+    <li> Seamless cart & checkout</li>
+    <li> React Router navigation</li>
+    <li> Fully responsive design</li>
+    <li> Optimized performance</li>
   </ul>
 
   <p align="center">
@@ -258,11 +258,11 @@
   </p>
 
   <ul>
-    <li>📐 Responsive Flexbox & Grid</li>
-    <li>🔄 Dynamic data fetching</li>
-    <li>📝 Reusable form components</li>
-    <li>🎨 Modern, intuitive interface</li>
-    <li>⚡ Optimized performance</li>
+    <li> Responsive Flexbox & Grid</li>
+    <li> Dynamic data fetching</li>
+    <li> Reusable form components</li>
+    <li> Modern, intuitive interface</li>
+    <li> Optimized performance</li>
   </ul>
 
   <p align="center">
@@ -299,11 +299,11 @@
   </p>
 
   <ul>
-    <li>🌍 OpenWeather API integration</li>
-    <li>📊 Dynamic data rendering</li>
-    <li>📱 Responsive across devices</li>
-    <li>⚡ Real-time updates</li>
-    <li>🔍 City search functionality</li>
+    <li> OpenWeather API integration</li>
+    <li> Dynamic data rendering</li>
+    <li> Responsive across devices</li>
+    <li> Real-time updates</li>
+    <li> City search functionality</li>
   </ul>
 
   <p align="center">
@@ -324,11 +324,11 @@
   <p align="left">
     <ul>
    <strong> 🔨 Currently working on: </strong> 
-    <li>🔮 Advanced React Patterns </li>
+    <li> Advanced React Patterns </li>
     <li> Compound components & render props </li>
-    <li>🏗️ Scalable System Architecture </li>
+    <li> Scalable System Architecture </li>
    <li> Microservices & clean architecture </li>
-   <li> ⚡ Performance Optimization </li> 
+   <li>  Performance Optimization </li> 
     <li>Code splitting, lazy loading & caching </li>
     </ul>
     </p>
