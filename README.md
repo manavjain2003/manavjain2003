@@ -107,19 +107,19 @@
     <td width="52%" valign="top">
       <h3 align="center">Frontend Excellence</h3>
       <ul>
-        <li>🎨 Responsive UI/UX with React.js & Tailwind CSS</li>
-        <li>🔄 State management using Redux & Context API</li>
-        <li>📱 Mobile apps development with React Native</li>
-        <li>⚡ Performance optimization & code splitting</li>
+        <li> Responsive UI/UX with React.js & Tailwind CSS</li>
+        <li> State management using Redux & Context API</li>
+        <li> Mobile apps development with React Native</li>
+        <li> Performance optimization & code splitting</li>
       </ul>
     </td>
     <td width="48%" valign="top">
       <h3 align="center">Backend Mastery</h3>
       <ul>
-        <li>🛠️ RESTful API design & implementation</li>
-        <li>🔐 Authentication & RBAC systems</li>
-        <li>🗄️ Database architecture (MongoDB, MySQL)</li>
-        <li>🚀 Node.js & Express.js server development</li>
+        <li> RESTful API design & implementation</li>
+        <li> Authentication & RBAC systems</li>
+        <li> Database architecture (MongoDB, MySQL)</li>
+        <li> Node.js & Express.js server development</li>
       </ul>
     </td>
   </tr>
@@ -543,7 +543,7 @@ Interests: MERN stack development, system architecture, performance optimization
 Availability: Ready to discuss innovative ideas and impactful solutions
 ```
 
-<i>✨ Passionate about crafting elegant solutions to complex problems</i>
+<i> Passionate about crafting elegant solutions to complex problems</i>
 
 </div>
 
@@ -555,7 +555,7 @@ Availability: Ready to discuss innovative ideas and impactful solutions
 
 <div align="center">
 
-### ⭐ **From [Manav Jain](https://github.com/manavjain2003)** - *Building the future, one commit at a time*
+###  **From [Manav Jain](https://github.com/manavjain2003)** - *Building the future, one commit at a time*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling"/>
 
